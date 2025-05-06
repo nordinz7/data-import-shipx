@@ -7,12 +7,14 @@
     "dev": "bun index.ts"
   },
   "dependencies": {
-    "xlsx": "^0.17.0",
-    "fs": "^0.0.1-security"
+    "@types/lodash": "^4.17.16",
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.17.0"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/bun": "^1.2.12"
+    "@types/bun": "^1.2.12",
+    "lodash": "^4.17.21"
   }
 }
