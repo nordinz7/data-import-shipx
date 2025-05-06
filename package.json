@@ -1,0 +1,18 @@
+{
+  "name": "bun-xlsx-to-csv",
+  "version": "1.0.0",
+  "description": "A project to convert XLSX files to CSV format by sheets.",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "bun index.ts"
+  },
+  "dependencies": {
+    "xlsx": "^0.17.0",
+    "fs": "^0.0.1-security"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bun": "^1.2.12"
+  }
+}
