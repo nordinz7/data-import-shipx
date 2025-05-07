@@ -31,6 +31,25 @@ function loadPostcodeDB(): Record<string, { City: string, State: string }> {
 
 const postcodeDB = loadPostcodeDB();
 
+const cache = new Map<string, any[]>();
+
+function loadLatLongDB(bu: string) {
+    if (cache.has(bu)) {
+        return cache.get(bu);
+    }
+
+    const filePath = path.join(__dirname, '../latlongdb', `sl-api-${bu.replace('yh', '')}.ResLocation.json`);
+    if (!fs.existsSync(filePath)) {
+        console.log(`File not found: ${filePath}`);
+        cache.set(bu, []);
+        return [];
+    }
+
+    const res = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    cache.set(bu, res);
+    return res;
+}
+
 export function getStateFromPostcode(postcode: string): string {
     return postcode ? postcodeDB[postcode]?.State : "";
 }
@@ -80,11 +99,29 @@ function getTypes(row, type : 'address' | 'company'){
     return  JSON.stringify(rtn[type]);
 }
 
-function convert(row){
+export function getLatLong(buCode, code){
+    const o= {
+        "address.location.type": "",
+        "address.location.coordinates": "",
+    }
+
+    const locs= loadLatLongDB(buCode);
+    const found = locs.find((loc) => loc.ShipConCode === code);
+
+    if (found) {
+        o["address.location.type"] = 'Point';
+        o["address.location.coordinates"] = JSON.stringify([found.lng, found.lat]);
+    }
+
+    return o
+}
+
+function convert(row, opts: Opts) {
+    const code = getPkCode(row);
     return {
         // --- General Info ---
         "no": "",
-        "code": getPkCode(row),
+        "code": code,
         "name": getCompanyName(row),
         "description": "",
         "status": "activated",
@@ -122,8 +159,7 @@ function convert(row){
         "address.postCode": row["Postcode"] || "",
         "address.areaCode": row["areaCode"] || DEFAULT_IF_REQUIRED_NOT_FOUND,
         "address.zone": row["zone"] || DEFAULT_IF_REQUIRED_NOT_FOUND,
-        "address.location.type": "",
-        "address.location.coordinates": "",
+        ...getLatLong(opts.buCode, code),
         "address.phone": row["CustomerTel"] || "",
         "address.fax": row["CustomerFax"] || "",
         "address.tags": JSON.stringify(["isDefault"]),
@@ -147,7 +183,7 @@ export function getFullAddress(row, cols = ADDRESS_COLUMNS){
     return cols.map(k => row[k] || '').join(' ');
 }
 
-function getCompanies(jsonData){
+function getCompanies(jsonData, opts: Opts) {
         // Replace headers starting with 'Location' to 'Customer'
         const columns = Object.keys(jsonData[0] || {});
         columns.forEach(col => {
@@ -183,15 +219,11 @@ function Json2Csv(json){
 
 function extractFromSheet(sheetName: string, opts: Opts) {
     switch (sheetName) {
-        case 'AdmCustomer': {
-            const data = getCompanies(cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName])).filter((row:AdmCustomer) =>  row['SageMappingCode'] !== 'NULL');
-            const converted = data.map(convert)
-            opts.generateOutput(sheetName, Json2Csv(converted));
-            break;
-        }
-        case 'Drop On Drop Off':{
-            const data = getCompanies(cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]));
-            const converted = data.map(convert)
+        case 'AdmCustomer':
+        case 'Drop On Drop Off':
+        {
+            const data = getCompanies(cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]), opts).filter((row:AdmCustomer) =>  sheetName === 'AdmCustomer' ? row['SageMappingCode'] !== 'NULL' && row['SageMappingCode'] : row);
+            const converted = data.map(d => convert(d, opts));
             opts.generateOutput(sheetName, Json2Csv(converted));
             break;
         }
@@ -202,14 +234,17 @@ function extractFromSheet(sheetName: string, opts: Opts) {
             opts.generateOutput('AreaZones', Json2Csv(zones));
             break;
         }
-        case 'ShipperConsignee':{
-            if (!opts.workbook.SheetNames.includes('ShipperConDelivery')) {
+        case 'ShipperConsignee':
+        case 'AdmShipperConsignee':{
+            const targetSheets = ['ShipperConsignee', 'AdmShipperConsignee'];
+            const shipConDelSheet = opts.workbook.SheetNames.find((sheetName) => targetSheets.includes(sheetName));
+            if (!shipConDelSheet) {
                 console.log(`Sheet "ShipperConDelivery" not found in ${opts.fileBaseName}`);
                 return;
             }
 
             const shipConCompanies = cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]);
-            const shipConAddresses = cloneJsonDataFromSheet(opts.workbook.Sheets['ShipperConDelivery']);
+            const shipConAddresses = cloneJsonDataFromSheet(opts.workbook.Sheets[shipConDelSheet]);
             const data = convertToShipCon(shipConCompanies, shipConAddresses, opts);
             opts.generateOutput(sheetName, new Parser().parse(data));
         }
@@ -220,6 +255,16 @@ function extractFromSheet(sheetName: string, opts: Opts) {
     }
 }
 
+function getBuCode(filePath: string) {
+    const fileName = path.basename(filePath);
+    if (fileName.startsWith('YHPK')) return 'pk';
+    if (fileName.startsWith('YHPN')) return 'pr';
+    if (fileName.startsWith('YHPG')) return 'pg';
+    if (fileName.startsWith('TEG3')) return 'teg3';
+    if (fileName.startsWith('TEPG')) return 'tepg';
+    return 'na';
+}
+
 function extractFromWorkbook(workbook: XLSX.WorkBook, filePath: string) {
     const sheetNames = workbook.SheetNames;
     const fileBaseName = path.parse(filePath).name;
@@ -228,7 +273,7 @@ function extractFromWorkbook(workbook: XLSX.WorkBook, filePath: string) {
         fs.writeFileSync(csvFilePath, content);
     }
 
-    sheetNames.forEach((sheetName)=>extractFromSheet(sheetName, { workbook, generateOutput, fileBaseName }));
+    sheetNames.forEach((sheetName)=>extractFromSheet(sheetName, { workbook, generateOutput, fileBaseName, buCode: getBuCode(filePath) }));
 }
 
 

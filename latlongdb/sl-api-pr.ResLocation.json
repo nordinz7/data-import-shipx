@@ -1,0 +1,3066 @@
+[{
+  "_id": {
+    "$oid": "5771c81ccddd21cfdb76a16a"
+  },
+  "locId": "CEN CHEMINCENTURY CHEMICAL WORKS SDN. BHD.PLOT 498 MK 1,",
+  "locType": "ShipCon",
+  "lat": "5.364865572936785",
+  "lng": "100.38573861122131",
+  "ShipConCode": "CEN CHEMIN",
+  "Name": "CENTURY CHEMICAL WORKS SDN. BHD.",
+  "Address1": "PLOT 498 MK 1,"
+},
+{
+  "_id": {
+    "$oid": "5771c8a4cddd21cfdb76a16d"
+  },
+  "locId": "SIKTONG TAKE LEE WOOD PRODUCTS SDN BHDLOT 2320,JLN PAYA MANGKUANG",
+  "locType": "ShipCon",
+  "lat": "5.851415617109644",
+  "lng": "100.54342031478882",
+  "ShipConCode": "SIK",
+  "Name": "TONG TAKE LEE WOOD PRODUCTS SDN BHD",
+  "Address1": "LOT 2320,JLN PAYA MANGKUANG"
+},
+{
+  "_id": {
+    "$oid": "5771f097cddd21cfdb76a2cf"
+  },
+  "locId": "NIHONNS COOLING TOWER20B JALAN PERUSAHAAN PRAI",
+  "locType": "ShipCon",
+  "lat": "5.348842605391548",
+  "lng": "100.42217373847961",
+  "ShipConCode": "NIHON",
+  "Name": "NS COOLING TOWER",
+  "Address1": "20B JALAN PERUSAHAAN PRAI"
+},
+{
+  "_id": {
+    "$oid": "5771f0b9cddd21cfdb76a2d0"
+  },
+  "locId": "OCT1",
+  "locType": "CONTAINER YARD",
+  "lat": "5.3611963504706575",
+  "lng": "100.40645599365234"
+},
+{
+  "_id": {
+    "$oid": "5771f18dcddd21cfdb76a2d1"
+  },
+  "locId": "MUTS",
+  "locType": "CONTAINER YARD",
+  "lat": "5.436151978074013",
+  "lng": "100.41008234024048"
+},
+{
+  "_id": {
+    "$oid": "5771f49ccddd21cfdb76a2f7"
+  },
+  "locId": "YIYI SHUNFA FURNITURE ENTERPRISENO. 2290, JALAN 12,",
+  "locType": "ShipCon",
+  "lat": "5.250751581924167",
+  "lng": "100.50104141235352",
+  "ShipConCode": "YI",
+  "Name": "YI SHUNFA FURNITURE ENTERPRISE",
+  "Address1": "NO. 2290, JALAN 12,"
+},
+{
+  "_id": {
+    "$oid": "57721ba6cddd21cfdb76a3fa"
+  },
+  "locId": "ASTAASTA CHEMICAL S/BLOT 2823 (101) MUKIM 1",
+  "locType": "ShipCon",
+  "lat": "5.365848301263352",
+  "lng": "100.38411855697632",
+  "ShipConCode": "ASTA",
+  "Name": "ASTA CHEMICAL S/B",
+  "Address1": "LOT 2823 (101) MUKIM 1"
+},
+{
+  "_id": {
+    "$oid": "57721bb5cddd21cfdb76a3fb"
+  },
+  "locId": "BUMIKON",
+  "locType": "CONTAINER YARD",
+  "lat": "5.3700889694692755",
+  "lng": "100.38527727127075"
+},
+{
+  "_id": {
+    "$oid": "57721bbbcddd21cfdb76a3fc"
+  },
+  "locId": "BB",
+  "locType": "CONTAINER YARD",
+  "lat": "5.369832607493483",
+  "lng": "100.38509488105774"
+},
+{
+  "_id": {
+    "$oid": "57721c8bcddd21cfdb76a404"
+  },
+  "locId": "WIDETECHWIDETECH MANUFACTURING SDN BHD101 (A) HILIR SUNGAI KLUANG 5",
+  "locType": "ShipCon",
+  "lat": "5.310225532085234",
+  "lng": "100.29244065284728",
+  "ShipConCode": "WIDETECH",
+  "Name": "WIDETECH MANUFACTURING SDN BHD",
+  "Address1": "101 (A) HILIR SUNGAI KLUANG 5"
+},
+{
+  "_id": {
+    "$oid": "57721db8cddd21cfdb76a410"
+  },
+  "locId": "TANTAN ENG HONG PAPER & STATIONERY SDN BHDLOT 266,TINGKAT PERUSAHAN 6",
+  "locType": "ShipCon",
+  "lat": "5.3509256149240185",
+  "lng": "100.41076898574829",
+  "ShipConCode": "TAN",
+  "Name": "TAN ENG HONG PAPER & STATIONERY SDN BHD",
+  "Address1": "LOT 266,TINGKAT PERUSAHAN 6"
+},
+{
+  "_id": {
+    "$oid": "57721df8cddd21cfdb76a41d"
+  },
+  "locId": "MAPAMAPA GLOVES SDN BHDBAYAN LEPAS FREE INDUSTRIAL ZONE",
+  "locType": "ShipCon",
+  "lat": "5.327851883312616",
+  "lng": "100.29690384864807",
+  "ShipConCode": "MAPA",
+  "Name": "MAPA GLOVES SDN BHD",
+  "Address1": "BAYAN LEPAS FREE INDUSTRIAL ZONE"
+},
+{
+  "_id": {
+    "$oid": "57721e26cddd21cfdb76a41e"
+  },
+  "locId": "WIDETECHWIDETECH MANUFACTURING SDN BHD101 (A) HILIR SUNGAI KELUANG 5",
+  "locType": "ShipCon",
+  "lat": "5.310535332917644",
+  "lng": "100.2928376197815",
+  "ShipConCode": "WIDETECH",
+  "Name": "WIDETECH MANUFACTURING SDN BHD",
+  "Address1": "101 (A) HILIR SUNGAI KELUANG 5"
+},
+{
+  "_id": {
+    "$oid": "57721e8bcddd21cfdb76a420"
+  },
+  "locId": "PROMPT",
+  "locType": "CONTAINER YARD",
+  "lat": "5.408072074582994",
+  "lng": "100.39494395256042"
+},
+{
+  "_id": {
+    "$oid": "5772227acddd21cfdb76a43b"
+  },
+  "locId": "SWEEHINCHAC/O GREAT FOODLOT 605 & 606",
+  "locType": "ShipCon",
+  "lat": "5.692825538551558",
+  "lng": "100.62196612358092",
+  "ShipConCode": "SWEEHINCHA",
+  "Name": "C/O GREAT FOOD",
+  "Address1": "LOT 605 & 606"
+},
+{
+  "_id": {
+    "$oid": "577308a1cddd21cfdb76a7e7"
+  },
+  "locId": "OMNI2OMNIMETRIC TECHNOLOGIES SDN BHDPLOT 877,58 LORONG MAKMUR 13/1",
+  "locType": "ShipCon",
+  "lat": "5.441855381787562",
+  "lng": "100.54713785648346",
+  "ShipConCode": "OMNI2",
+  "Name": "OMNIMETRIC TECHNOLOGIES SDN BHD",
+  "Address1": "PLOT 877,58 LORONG MAKMUR 13/1"
+},
+{
+  "_id": {
+    "$oid": "577363a6cddd21cfdb76abfe"
+  },
+  "locId": "JABILJABIL CIRCUIT SDN BHD (KG JAWA)PLOT 1242, LEBUH KG JAWA,",
+  "locType": "ShipCon",
+  "lat": "5.319006722892969",
+  "lng": "100.29688239097595",
+  "ShipConCode": "JABIL",
+  "Name": "JABIL CIRCUIT SDN BHD (KG JAWA)",
+  "Address1": "PLOT 1242, LEBUH KG JAWA,"
+},
+{
+  "_id": {
+    "$oid": "5777b422cddd21cfdb76c270"
+  },
+  "locId": "MM",
+  "locType": "CONTAINER YARD",
+  "lat": "5.381625146704723",
+  "lng": "100.37458062171936"
+},
+{
+  "_id": {
+    "$oid": "5777b474cddd21cfdb76c272"
+  },
+  "locId": "CHEEWCHEE WAH CORPORATION BERHAD (2)NO. 6733 LORONG MAK MANDIN 5",
+  "locType": "ShipCon",
+  "lat": "5.419212337120344",
+  "lng": "100.39714336395264",
+  "ShipConCode": "CHEEW",
+  "Name": "CHEE WAH CORPORATION BERHAD (2)",
+  "Address1": "NO. 6733 LORONG MAK MANDIN 5"
+},
+{
+  "_id": {
+    "$oid": "5777b578cddd21cfdb76c276"
+  },
+  "locId": "I.C.S 2",
+  "locType": "CONTAINER YARD",
+  "lat": "5.373336211828244",
+  "lng": "100.3926694393158"
+},
+{
+  "_id": {
+    "$oid": "5777b47fcddd21cfdb76c273"
+  },
+  "locId": "HACKSHACKS MALAYSIA SDN BHD5093, MAK MANDIN INDUSTRIAL",
+  "locType": "ShipCon",
+  "lat": "5.417711671343201",
+  "lng": "100.39616703987122",
+  "ShipConCode": "HACKS",
+  "Name": "HACKS MALAYSIA SDN BHD",
+  "Address1": "5093, MAK MANDIN INDUSTRIAL"
+},
+{
+  "_id": {
+    "$oid": "5777b54acddd21cfdb76c275"
+  },
+  "locId": "MMT TEAMMMT TRADING.NO 12 & 14, JALAN PALA 12,",
+  "locType": "ShipCon",
+  "lat": "5.324102319975924",
+  "lng": "100.4491513967514",
+  "ShipConCode": "MMT TEAM",
+  "Name": "MMT TRADING.",
+  "Address1": "NO 12 & 14, JALAN PALA 12,"
+},
+{
+  "_id": {
+    "$oid": "5777b596cddd21cfdb76c277"
+  },
+  "locId": "MAICA LAMMAICA LAMINATED SDN BHD,LUNAS,KULIM226,BATU 7 1/2,JALAN PADANG SERAI",
+  "locType": "ShipCon",
+  "lat": "5.408490770756109",
+  "lng": "100.37495613098146",
+  "ShipConCode": "MAICA LAM",
+  "Name": "MAICA LAMINATED SDN BHD,LUNAS,KULIM",
+  "Address1": "226,BATU 7 1/2,JALAN PADANG SERAI"
+},
+{
+  "_id": {
+    "$oid": "57785c51cddd21cfdb76c284"
+  },
+  "locId": "OMNI2OMNIMETRIC TECHNOLOGIES SDN BHDPLOT 877, 58 LORONG MAKMUR 13/1",
+  "locType": "ShipCon",
+  "lat": "5.441855381787562",
+  "lng": "100.54713785648346",
+  "ShipConCode": "OMNI2",
+  "Name": "OMNIMETRIC TECHNOLOGIES SDN BHD",
+  "Address1": "PLOT 877, 58 LORONG MAKMUR 13/1"
+},
+{
+  "_id": {
+    "$oid": "57785c58cddd21cfdb76c285"
+  },
+  "locId": "CHEEWCHEE WAH CORPORATION BERHADNO. 6733 LORONG MAK MANDIN 5",
+  "locType": "ShipCon",
+  "lat": "5.419201656238315",
+  "lng": "100.39695024490356",
+  "ShipConCode": "CHEEW",
+  "Name": "CHEE WAH CORPORATION BERHAD",
+  "Address1": "NO. 6733 LORONG MAK MANDIN 5"
+},
+{
+  "_id": {
+    "$oid": "57785df4cddd21cfdb76c286"
+  },
+  "locId": "EPPACKEPPOR PACK SDN BHD2211,PERMATANG KLING,",
+  "locType": "ShipCon",
+  "lat": "5.13696398704918",
+  "lng": "100.46788930892943",
+  "ShipConCode": "EPPACK",
+  "Name": "EPPOR PACK SDN BHD",
+  "Address1": "2211,PERMATANG KLING,"
+},
+{
+  "_id": {
+    "$oid": "57785e34cddd21cfdb76c287"
+  },
+  "locId": "WONHI WONDER SDN BHD76, JALAN WAJA 3,",
+  "locType": "ShipCon",
+  "lat": "5.423415249537286",
+  "lng": "100.5651408433914",
+  "ShipConCode": "WON",
+  "Name": "HI WONDER SDN BHD",
+  "Address1": "76, JALAN WAJA 3,"
+},
+{
+  "_id": {
+    "$oid": "57785ed6cddd21cfdb76c289"
+  },
+  "locId": "SWEEHINCHAC/O KEPALA BATAS BIHUN1239, JALAN LAHAR KEPAR",
+  "locType": "ShipCon",
+  "lat": "5.534223725455802",
+  "lng": "100.42378842830658",
+  "ShipConCode": "SWEEHINCHA",
+  "Name": "C/O KEPALA BATAS BIHUN",
+  "Address1": "1239, JALAN LAHAR KEPAR"
+},
+{
+  "_id": {
+    "$oid": "57785fefcddd21cfdb76c28b"
+  },
+  "locId": "ASTAASTA CHEMICAL SDN BHDC/O SA WOOD CHEMICALS S/B",
+  "locType": "ShipCon",
+  "lat": "5.367867162097374",
+  "lng": "100.38374304771423",
+  "ShipConCode": "ASTA",
+  "Name": "ASTA CHEMICAL SDN BHD",
+  "Address1": "C/O SA WOOD CHEMICALS S/B"
+},
+{
+  "_id": {
+    "$oid": "577860a2cddd21cfdb76c28d"
+  },
+  "locId": "ENGKONG",
+  "locType": "CONTAINER YARD",
+  "lat": "5.423094825224607",
+  "lng": "100.39836645126343"
+},
+{
+  "_id": {
+    "$oid": "57786157cddd21cfdb76c28f"
+  },
+  "locId": "WONHI WONDER S/BPLOT 933,LORONG MAKMUR 13/1",
+  "locType": "ShipCon",
+  "lat": "5.423719652476752",
+  "lng": "100.56491017341614",
+  "ShipConCode": "WON",
+  "Name": "HI WONDER S/B",
+  "Address1": "PLOT 933,LORONG MAKMUR 13/1"
+},
+{
+  "_id": {
+    "$oid": "577861dccddd21cfdb76c291"
+  },
+  "locId": "VAN2CNC FREIGHT SERVICES (PG) S/BD2 WAREHOUSE, PENANG",
+  "locType": "ShipCon",
+  "lat": "5.388749695045544",
+  "lng": "100.37002086639404",
+  "ShipConCode": "VAN2",
+  "Name": "VANGUARD LOGISTICS SERVICES",
+  "Address1": "D2 WAREHOUSE, PENANG"
+},
+{
+  "_id": {
+    "$oid": "57786208cddd21cfdb76c292"
+  },
+  "locId": "HIGH ACEHIGH ACE INDUSTRIES SDN BHDPLOT 9, LORONG PERUSAHAAN BUKIT MINYAK 7",
+  "locType": "ShipCon",
+  "lat": "5.3073625377155045",
+  "lng": "100.44984340667725",
+  "ShipConCode": "HIGH ACE",
+  "Name": "HIGH ACE INDUSTRIES SDN BHD",
+  "Address1": "PLOT 9, LORONG PERUSAHAAN BUKIT MINYAK 7"
+},
+{
+  "_id": {
+    "$oid": "577863b2cddd21cfdb76c296"
+  },
+  "locId": "ACIDACIDCHEM INTERNATIONAL SDN BHD..2411, LORONG PERUSAHAAN SATU",
+  "locType": "ShipCon",
+  "lat": "5.371119757158541",
+  "lng": "100.39596855640411",
+  "ShipConCode": "ACID",
+  "Name": "ACIDCHEM INTERNATIONAL SDN BHD..",
+  "Address1": "2411, LORONG PERUSAHAAN SATU"
+},
+{
+  "_id": {
+    "$oid": "5779cf03cddd21cfdb76c384"
+  },
+  "locId": "BENCHBENCHMARK ELECTRONICS (M) S/BFREE INDUSTRIAL ZONE,PHASE 1",
+  "locType": "ShipCon",
+  "lat": "5.30709546666741",
+  "lng": "100.28222680091858",
+  "ShipConCode": "BENCH",
+  "Name": "BENCHMARK ELECTRONICS (M) S/B",
+  "Address1": "FREE INDUSTRIAL ZONE,PHASE 1"
+},
+{
+  "_id": {
+    "$oid": "5779cf56cddd21cfdb76c38b"
+  },
+  "locId": "DYNACRAFTDYNACRAFT INDUSTRIES SDN BHD.255-A, BLOCK D, PHASE 2",
+  "locType": "ShipCon",
+  "lat": "5.304916162593555",
+  "lng": "100.2782142162323",
+  "ShipConCode": "DYNACRAFT",
+  "Name": "DYNACRAFT INDUSTRIES SDN BHD.",
+  "Address1": "255-A, BLOCK D, PHASE 2"
+},
+{
+  "_id": {
+    "$oid": "5779de63cddd21cfdb76c4b2"
+  },
+  "locId": "AMBU2AMBU SDN BHD (B2)BAYAN LEPAS",
+  "locType": "ShipCon",
+  "lat": "5.302309533887091",
+  "lng": "100.28618037700653",
+  "ShipConCode": "AMBU2",
+  "Name": "AMBU SDN BHD (B2)",
+  "Address1": "BAYAN LEPAS"
+},
+{
+  "_id": {
+    "$oid": "5779df36cddd21cfdb76c4b3"
+  },
+  "locId": "CJCJ KOREA EXPRESS MALAYSIA SDN BHDG2 GODOWN, BUTTERWORTH DEEP WATER WHARVES,",
+  "locType": "ShipCon",
+  "lat": "5.387024643402889",
+  "lng": "100.37110447883606",
+  "ShipConCode": "CJ",
+  "Name": "CJ KOREA EXPRESS MALAYSIA SDN BHD",
+  "Address1": "G2 GODOWN, BUTTERWORTH DEEP WATER WHARVES,"
+},
+{
+  "_id": {
+    "$oid": "5779df4ecddd21cfdb76c4b4"
+  },
+  "locId": "MIEMING ENGINEERING SDN BHDPLOT 167 A LORONG PERINDUSTRIAN BKT MINYAK",
+  "locType": "ShipCon",
+  "lat": "5.297299220756647",
+  "lng": "100.45020818710327",
+  "ShipConCode": "MIE",
+  "Name": "MING ENGINEERING SDN BHD",
+  "Address1": "PLOT 167 A LORONG PERINDUSTRIAN BKT MINYAK"
+},
+{
+  "_id": {
+    "$oid": "5779fd9bcddd21cfdb76c53e"
+  },
+  "locId": "PSBPENFABRIC SDN BHD - MILL 3150-A, BLK A, MK. 12, PHASE 3",
+  "locType": "ShipCon",
+  "lat": "5.324006177025501",
+  "lng": "100.30193567276001",
+  "ShipConCode": "PSB",
+  "Name": "PENFABRIC SDN BHD - MILL 3",
+  "Address1": "150-A, BLK A, MK. 12, PHASE 3"
+},
+{
+  "_id": {
+    "$oid": "5779fdb2cddd21cfdb76c53f"
+  },
+  "locId": "AYZA",
+  "locType": "CONTAINER YARD",
+  "lat": "5.374297563153493",
+  "lng": "100.39089918136597"
+},
+{
+  "_id": {
+    "$oid": "5779fe3ccddd21cfdb76c540"
+  },
+  "locId": "51328HANG SENG KNITTING SDN BHD2, 4, LORONG TENAGAJAYA 2,",
+  "locType": "ShipCon",
+  "lat": "5.256317824649455",
+  "lng": "100.47474503517151",
+  "ShipConCode": "51328",
+  "Name": "HANG SENG KNITTING SDN BHD",
+  "Address1": "2, 4, LORONG TENAGAJAYA 2,"
+},
+{
+  "_id": {
+    "$oid": "5779fe4fcddd21cfdb76c541"
+  },
+  "locId": "ICS",
+  "locType": "CONTAINER YARD",
+  "lat": "5.3738168876805315",
+  "lng": "100.39218664169312"
+},
+{
+  "_id": {
+    "$oid": "577b2e87cddd21cfdb76c89b"
+  },
+  "locId": "NENIPPON EXPRESS (M) SDN BHDLOT 2867, LORONG MAK MANDIN 5",
+  "locType": "ShipCon",
+  "lat": "5.419030762100036",
+  "lng": "100.39074897766113",
+  "ShipConCode": "NE",
+  "Name": "NIPPON EXPRESS (M) SDN BHD",
+  "Address1": "LOT 2867, LORONG MAK MANDIN 5"
+},
+{
+  "_id": {
+    "$oid": "577b2eb1cddd21cfdb76c89c"
+  },
+  "locId": "PREMIUMPREMIUM SOUND SOLUTION,1552A KAWASAN PER BUKIT TENGAH,",
+  "locType": "ShipCon",
+  "lat": "5.332509428694303",
+  "lng": "100.43311715126038",
+  "ShipConCode": "PREMIUM",
+  "Name": "PREMIUM SOUND SOLUTION,",
+  "Address1": "1552A KAWASAN PER BUKIT TENGAH,"
+},
+{
+  "_id": {
+    "$oid": "577b2eddcddd21cfdb76c8a2"
+  },
+  "locId": "MG FURMG FURNITURE SDN BHDLOT 2780,JALAN INDUSTRI 2",
+  "locType": "ShipCon",
+  "lat": "5.172615971678977",
+  "lng": "100.49585938453674",
+  "ShipConCode": "MG FUR",
+  "Name": "MG FURNITURE SDN BHD",
+  "Address1": "LOT 2780,JALAN INDUSTRI 2"
+},
+{
+  "_id": {
+    "$oid": "577b2f04cddd21cfdb76c8a3"
+  },
+  "locId": "TRILI",
+  "locType": "CONTAINER YARD",
+  "lat": "5.388792420720659",
+  "lng": "100.37796020507812"
+},
+{
+  "_id": {
+    "$oid": "577b2f83cddd21cfdb76c8a4"
+  },
+  "locId": "LYPOLYPOMETAL SDN BHDE61, JALAN CENDANA 4/6,",
+  "locType": "ShipCon",
+  "lat": "5.600396695731727",
+  "lng": "100.49960374832153",
+  "ShipConCode": "LYPO",
+  "Name": "LYPOMETAL SDN BHD",
+  "Address1": "E61, JALAN CENDANA 4/6,"
+},
+{
+  "_id": {
+    "$oid": "577b2fa5cddd21cfdb76c8ab"
+  },
+  "locId": "COCOCOCO INDUSTRY SDN BHD4823 ON PLOT 1484, MAK MANDIN IND. ESTATE,",
+  "locType": "ShipCon",
+  "lat": "5.418149588432083",
+  "lng": "100.39588809013367",
+  "ShipConCode": "COCO",
+  "Name": "COCO INDUSTRY SDN BHD",
+  "Address1": "4823 ON PLOT 1484, MAK MANDIN IND. ESTATE,"
+},
+{
+  "_id": {
+    "$oid": "577b2ff1cddd21cfdb76c8af"
+  },
+  "locId": "SPHINXMK FLORA SDN BHD5,LORONG CHEROK TO'KUN JAYA 2",
+  "locType": "ShipCon",
+  "lat": "5.340430379403426",
+  "lng": "100.48686325550078",
+  "ShipConCode": "SPHINX",
+  "Name": "MK FLORA SDN BHD",
+  "Address1": "5,LORONG CHEROK TO'KUN JAYA 2"
+},
+{
+  "_id": {
+    "$oid": "577b3015cddd21cfdb76c8b0"
+  },
+  "locId": "ECOECOMEDI GLOVE SDN BHD (PLANT 2)LOT 23826,JALAN TEMABAGA KUNING",
+  "locType": "ShipCon",
+  "lat": "4.860283174067078",
+  "lng": "100.69594144821167",
+  "ShipConCode": "ECO",
+  "Name": "ECOMEDI GLOVE SDN BHD (PLANT 2)",
+  "Address1": "LOT 23826,JALAN TEMABAGA KUNING"
+},
+{
+  "_id": {
+    "$oid": "577b30becddd21cfdb76c8b1"
+  },
+  "locId": "LELEELEAN LEE TRADING891, JALAN KAMPONG JURU",
+  "locType": "ShipCon",
+  "lat": "5.315588269334889",
+  "lng": "100.44899582862853",
+  "ShipConCode": "LELEE",
+  "Name": "LEAN LEE TRADING",
+  "Address1": "891, JALAN KAMPONG JURU"
+},
+{
+  "_id": {
+    "$oid": "57831839cddd21cfdb76ccea"
+  },
+  "locId": "BENCHBENCHMARK ELECTRONICS (M) SDN BHDPLOT 17-A AND 17-B TECHNOPLEX",
+  "locType": "ShipCon",
+  "lat": "5.301401484416563",
+  "lng": "100.29180765151978",
+  "ShipConCode": "BENCH",
+  "Name": "BENCHMARK ELECTRONICS (M) SDN BHD",
+  "Address1": "PLOT 17-A AND 17-B TECHNOPLEX"
+},
+{
+  "_id": {
+    "$oid": "57831878cddd21cfdb76cceb"
+  },
+  "locId": "HOKHOKSON RUBBER GODOWNLOT 133, 134 & 135,",
+  "locType": "ShipCon",
+  "lat": "5.454362094520132",
+  "lng": "100.54622054100037",
+  "ShipConCode": "HOK",
+  "Name": "HOKSON RUBBER GODOWN",
+  "Address1": "LOT 133, 134 & 135,"
+},
+{
+  "_id": {
+    "$oid": "578318a6cddd21cfdb76ccf1"
+  },
+  "locId": "SITT2SITT TATT WAREHOUSELOT 1980 JALAN PERMATANG PAUH",
+  "locType": "ShipCon",
+  "lat": "5.4105767823666895",
+  "lng": "100.40012598037718",
+  "ShipConCode": "SITT2",
+  "Name": "SITT TATT WAREHOUSE",
+  "Address1": "LOT 1980 JALAN PERMATANG PAUH"
+},
+{
+  "_id": {
+    "$oid": "578318c7cddd21cfdb76ccf2"
+  },
+  "locId": "NIHONNIHON SPINDLE COOLING TOWER S/B20 B, JALAN PERUSAHAAN PRAI",
+  "locType": "ShipCon",
+  "lat": "5.348970790798316",
+  "lng": "100.42219519615173",
+  "ShipConCode": "NIHON",
+  "Name": "NIHON SPINDLE COOLING TOWER S/B",
+  "Address1": "20 B, JALAN PERUSAHAAN PRAI"
+},
+{
+  "_id": {
+    "$oid": "57834664cddd21cfdb76ce4e"
+  },
+  "locId": "CLM CONCLM CONVERSATION (PG) SDN BHD773 (PLOT 87& 83) LORONG PERINDUSTRIAN BUKIT MINYA",
+  "locType": "ShipCon",
+  "lat": "5.2992328432197695",
+  "lng": "100.44827699661255",
+  "ShipConCode": "CLM CON",
+  "Name": "CLM CONVERSATION (PG) SDN BHD",
+  "Address1": "773 (PLOT 87& 83) LORONG PERINDUSTRIAN BUKIT MINYA"
+},
+{
+  "_id": {
+    "$oid": "5783467bcddd21cfdb76ce50"
+  },
+  "locId": "KONREP",
+  "locType": "CONTAINER YARD",
+  "lat": "5.350605152380628",
+  "lng": "100.4035699367523"
+},
+{
+  "_id": {
+    "$oid": "57834709cddd21cfdb76ce53"
+  },
+  "locId": "NTANTA MACHINERY (M) SDN BHD1046 JALAN PERUSAHAAN",
+  "locType": "ShipCon",
+  "lat": "5.348564870251446",
+  "lng": "100.42276382446289",
+  "ShipConCode": "NTA",
+  "Name": "NTA MACHINERY (M) SDN BHD",
+  "Address1": "1046 JALAN PERUSAHAAN"
+},
+{
+  "_id": {
+    "$oid": "57834742cddd21cfdb76ce54"
+  },
+  "locId": "PREFEREPREFERENCE MEGACYCLE SDN BHDNO 922, (PLOT 80A),JALAN PERINDUSTRIAN BUKIT MINYA",
+  "locType": "ShipCon",
+  "lat": "5.299115330425116",
+  "lng": "100.44886708259583",
+  "ShipConCode": "PREFERE",
+  "Name": "PREFERENCE MEGACYCLE SDN BHD",
+  "Address1": "NO 922, (PLOT 80A),JALAN PERINDUSTRIAN BUKIT MINYA"
+},
+{
+  "_id": {
+    "$oid": "57834776cddd21cfdb76ce55"
+  },
+  "locId": "CLASSCLASS FOODS (M) SDN BHDS.T ENTERPRISE & TRANSPORT",
+  "locType": "ShipCon",
+  "lat": "5.429081391353499",
+  "lng": "100.40921330451965",
+  "ShipConCode": "CLASS",
+  "Name": "CLASS FOODS (M) SDN BHD",
+  "Address1": "S.T ENTERPRISE & TRANSPORT"
+},
+{
+  "_id": {
+    "$oid": "578347a0cddd21cfdb76ce56"
+  },
+  "locId": "MABETTAMABETTA MARKETING76,JALAN WAJA 3",
+  "locType": "ShipCon",
+  "lat": "5.423548759617348",
+  "lng": "100.56618690490721",
+  "ShipConCode": "MABETTA",
+  "Name": "MABETTA MARKETING",
+  "Address1": "76,JALAN WAJA 3"
+},
+{
+  "_id": {
+    "$oid": "578347cccddd21cfdb76ce5c"
+  },
+  "locId": "LELEELEAN LEE TRADING CO. SDN BHDNO.891, JALAN KAMPUNG JURU,",
+  "locType": "ShipCon",
+  "lat": "5.352939184063156",
+  "lng": "100.40513098239899",
+  "ShipConCode": "LELEE",
+  "Name": "LEAN LEE TRADING CO. SDN BHD",
+  "Address1": "NO.891, JALAN KAMPUNG JURU,"
+},
+{
+  "_id": {
+    "$oid": "57834853cddd21cfdb76ce5d"
+  },
+  "locId": "MJMJ MATERIAL TECHNOLOGY SDN BHDNO.36B, LORONG PERINDUSTRIAN BUKIT MINYAK 6",
+  "locType": "ShipCon",
+  "lat": "5.3138042563476855",
+  "lng": "100.44877052307129",
+  "ShipConCode": "MJ",
+  "Name": "MJ MATERIAL TECHNOLOGY SDN BHD",
+  "Address1": "NO.36B, LORONG PERINDUSTRIAN BUKIT MINYAK 6"
+},
+{
+  "_id": {
+    "$oid": "57834881cddd21cfdb76ce5e"
+  },
+  "locId": "PREFEREPREFERENCE MEGACYCLE SDN BHDNO 922, (PLOT 80A),JALAN PERINDUSTRIAN BUKIT MINYAK",
+  "locType": "ShipCon",
+  "lat": "5.299115330425116",
+  "lng": "100.44886708259583",
+  "ShipConCode": "PREFERE",
+  "Name": "PREFERENCE MEGACYCLE SDN BHD",
+  "Address1": "NO 922, (PLOT 80A),JALAN PERINDUSTRIAN BUKIT MINYAK"
+},
+{
+  "_id": {
+    "$oid": "5783488bcddd21cfdb76ce5f"
+  },
+  "locId": "CLM CONCLM CONVERSATION (PG) SDN BHD773 (PLOT 87& 83) LORONG PERINDUSTRIAN BUKIT MINYAK 16",
+  "locType": "ShipCon",
+  "lat": "5.2992328432197695",
+  "lng": "100.44827699661255",
+  "ShipConCode": "CLM CON",
+  "Name": "CLM CONVERSATION (PG) SDN BHD",
+  "Address1": "773 (PLOT 87& 83) LORONG PERINDUSTRIAN BUKIT MINYAK 16"
+},
+{
+  "_id": {
+    "$oid": "5783493ccddd21cfdb76ce60"
+  },
+  "locId": "ANODANOD TECH INDUSTRY (M) SDN BHDLOT 107 & 108 JALAN PKNK UTAMA,",
+  "locType": "ShipCon",
+  "lat": "5.650365834663968",
+  "lng": "100.53182244300841",
+  "ShipConCode": "ANOD",
+  "Name": "ANOD TECH INDUSTRY (M) SDN BHD",
+  "Address1": "LOT 107 & 108 JALAN PKNK UTAMA,"
+},
+{
+  "_id": {
+    "$oid": "5784545bcddd21cfdb76d233"
+  },
+  "locId": "EUROEUROSPAN FURNITURE SDN BHD1168, KAMPONG TELUK,",
+  "locType": "ShipCon",
+  "lat": "5.438491020966947",
+  "lng": "100.41796267032623",
+  "ShipConCode": "EURO",
+  "Name": "EUROSPAN FURNITURE SDN BHD",
+  "Address1": "1168, KAMPONG TELUK,"
+},
+{
+  "_id": {
+    "$oid": "57845475cddd21cfdb76d237"
+  },
+  "locId": "GENTINGGENTING EHSAN (SP) SDN BHDLOT 210 & 211, FASA II",
+  "locType": "ShipCon",
+  "lat": "5.592281644887773",
+  "lng": "100.64442157745361",
+  "ShipConCode": "GENTING",
+  "Name": "GENTING EHSAN (SP) SDN BHD",
+  "Address1": "LOT 210 & 211, FASA II"
+},
+{
+  "_id": {
+    "$oid": "578454a6cddd21cfdb76d23c"
+  },
+  "locId": "CY HANDEECY HANDEE RUBBER MOULDING SDN BHD669, LORONG PERUSAHAAN 1",
+  "locType": "ShipCon",
+  "lat": "5.105285313965397",
+  "lng": "100.487802028656",
+  "ShipConCode": "CY HANDEE",
+  "Name": "CY HANDEE RUBBER MOULDING SDN BHD",
+  "Address1": "669, LORONG PERUSAHAAN 1"
+},
+{
+  "_id": {
+    "$oid": "578454e3cddd21cfdb76d23d"
+  },
+  "locId": "SANLANDSANCORA PAINT MARKETINGLOT 8206 KAWASAN PERUSAHAAN KAMUNTING",
+  "locType": "ShipCon",
+  "lat": "4.89735062159302",
+  "lng": "100.7120132446289",
+  "ShipConCode": "SANLAND",
+  "Name": "SANCORA PAINT MARKETING",
+  "Address1": "LOT 8206 KAWASAN PERUSAHAAN KAMUNTING"
+},
+{
+  "_id": {
+    "$oid": "57845c46cddd21cfdb76d283"
+  },
+  "locId": "KAOKAO PLASTICIZER (M) SDN BHD2510 LORONG PERUSAHAAN SATU",
+  "locType": "ShipCon",
+  "lat": "5.373005079353792",
+  "lng": "100.39584517478943",
+  "ShipConCode": "KAO",
+  "Name": "KAO PLASTICIZER (M) SDN BHD",
+  "Address1": "2510 LORONG PERUSAHAAN SATU"
+},
+{
+  "_id": {
+    "$oid": "57845c84cddd21cfdb76d284"
+  },
+  "locId": "MINGENGINEMING ENGINEERING PLASTIC S/BPLOT 167A,LORONG PERINDUSTRIAN BUKIT MINYAK 13",
+  "locType": "ShipCon",
+  "lat": "5.297641077102077",
+  "lng": "100.44980585575104",
+  "ShipConCode": "MINGENGINE",
+  "Name": "MING ENGINEERING PLASTIC S/B",
+  "Address1": "PLOT 167A,LORONG PERINDUSTRIAN BUKIT MINYAK 13"
+},
+{
+  "_id": {
+    "$oid": "57845cf7cddd21cfdb76d289"
+  },
+  "locId": "WORLDLINKWORLDLINK CARGO SERVICES SDN BHDC/O CJ KOREA EXPRESS MALAYSIA SDN BHD",
+  "locType": "ShipCon",
+  "lat": "5.387040665576901",
+  "lng": "100.36933422088623",
+  "ShipConCode": "WORLDLINK",
+  "Name": "WORLDLINK CARGO SERVICES SDN BHD",
+  "Address1": "C/O CJ KOREA EXPRESS MALAYSIA SDN BHD"
+},
+{
+  "_id": {
+    "$oid": "57845dc0cddd21cfdb76d291"
+  },
+  "locId": "TAT GIAP STATT GIAP STEEL CENTRE SDN BHDPLOT 33,JALAN PERUSAHAAN BUKIT MINYAK",
+  "locType": "ShipCon",
+  "lat": "5.317244085147589",
+  "lng": "100.45278310775757",
+  "ShipConCode": "TAT GIAP S",
+  "Name": "TATT GIAP STEEL CENTRE SDN BHD",
+  "Address1": "PLOT 33,JALAN PERUSAHAAN BUKIT MINYAK"
+},
+{
+  "_id": {
+    "$oid": "57845e32cddd21cfdb76d292"
+  },
+  "locId": "MISC",
+  "locType": "CONTAINER YARD",
+  "lat": "5.431933133444246",
+  "lng": "100.41009306907654"
+},
+{
+  "_id": {
+    "$oid": "57849b28cddd21cfdb76d44d"
+  },
+  "locId": "PARAMIPARAMIT (M) SDN  BHDPHASE 2 BAYAN LEPAS FIZ",
+  "locType": "ShipCon",
+  "lat": "5.31051396734799",
+  "lng": "100.2812933921814",
+  "ShipConCode": "PARAMI",
+  "Name": "PARAMIT (M) SDN  BHD",
+  "Address1": "PHASE 2 BAYAN LEPAS FIZ"
+},
+{
+  "_id": {
+    "$oid": "57849b6ecddd21cfdb76d44e"
+  },
+  "locId": "NIPPON ENIPPON EGALV STEEL SDN BHD1617  LORONG PERUSAHAAN MAJU 6",
+  "locType": "ShipCon",
+  "lat": "5.339057706804372",
+  "lng": "100.41758179664612",
+  "ShipConCode": "NIPPON E",
+  "Name": "NIPPON EGALV STEEL SDN BHD",
+  "Address1": "1617  LORONG PERUSAHAAN MAJU 6"
+},
+{
+  "_id": {
+    "$oid": "57849b8acddd21cfdb76d44f"
+  },
+  "locId": "ZHULZHULIAN INDUSTRIES SDN BHD (KILANG BARU)PLOT 3, FASA 4,",
+  "locType": "ShipCon",
+  "lat": "5.304755919343133",
+  "lng": "100.29486000537872",
+  "ShipConCode": "ZHUL",
+  "Name": "ZHULIAN INDUSTRIES SDN BHD (KILANG BARU)",
+  "Address1": "PLOT 3, FASA 4,"
+},
+{
+  "_id": {
+    "$oid": "57849c12cddd21cfdb76d450"
+  },
+  "locId": "ROBERTBOSROBERT BOSCH (M) SDN BHDBAYAN LEPAS FREE TRADE ZONE",
+  "locType": "ShipCon",
+  "lat": "5.31005460742139",
+  "lng": "100.28439402580261",
+  "ShipConCode": "ROBERTBOS",
+  "Name": "ROBERT BOSCH (M) SDN BHD",
+  "Address1": "BAYAN LEPAS FREE TRADE ZONE"
+},
+{
+  "_id": {
+    "$oid": "57849c54cddd21cfdb76d451"
+  },
+  "locId": "ENTEENTEGRIS MALAYSIAN SDN BHD,LOT 4, JALAN PERUSHAAN",
+  "locType": "ShipCon",
+  "lat": "5.412360512504468",
+  "lng": "100.56287705898285",
+  "ShipConCode": "ENTE",
+  "Name": "ENTEGRIS MALAYSIAN SDN BHD,",
+  "Address1": "LOT 4, JALAN PERUSHAAN"
+},
+{
+  "_id": {
+    "$oid": "57849c6acddd21cfdb76d452"
+  },
+  "locId": "SAFETYFIBSAFETY FIBRE IND S/BLOT 490,LORONG PERUSAHAAN BARU 2",
+  "locType": "ShipCon",
+  "lat": "5.3654530737571084",
+  "lng": "100.40410101413727",
+  "ShipConCode": "SAFETYFIB",
+  "Name": "SAFETY FIBRE IND S/B",
+  "Address1": "LOT 490,LORONG PERUSAHAAN BARU 2"
+},
+{
+  "_id": {
+    "$oid": "5784b536cddd21cfdb76d57f"
+  },
+  "locId": "HAEHAEMONETICS MALAYSIA.PLOT 308 PERSIARAN CASSIA SELATAN 1",
+  "locType": "ShipCon",
+  "lat": "5.227813009892959",
+  "lng": "100.45566916465759",
+  "ShipConCode": "HAE",
+  "Name": "HAEMONETICS MALAYSIA.",
+  "Address1": "PLOT 308 PERSIARAN CASSIA SELATAN 1"
+},
+{
+  "_id": {
+    "$oid": "5784b555cddd21cfdb76d580"
+  },
+  "locId": "SKY TUNESKY TUNE METAL CORPORATION SDN BHD3039 MUKIM 1 TINGKAT PERUSHAAN 5A",
+  "locType": "ShipCon",
+  "lat": "5.354899336511316",
+  "lng": "100.40878415107727",
+  "ShipConCode": "SKY TUNE",
+  "Name": "SKY TUNE METAL CORPORATION SDN BHD",
+  "Address1": "3039 MUKIM 1 TINGKAT PERUSHAAN 5A"
+},
+{
+  "_id": {
+    "$oid": "5784b57dcddd21cfdb76d582"
+  },
+  "locId": "RIVERSTONERIVERSTONE RESOURCES S/BNO 119 JALAN LOGAM 7",
+  "locType": "ShipCon",
+  "lat": "4.880284349574198",
+  "lng": "100.70982992649077",
+  "ShipConCode": "RIVERSTONE",
+  "Name": "RIVERSTONE RESOURCES S/B",
+  "Address1": "NO 119 JALAN LOGAM 7"
+},
+{
+  "_id": {
+    "$oid": "5784b5adcddd21cfdb76d583"
+  },
+  "locId": "TONGYUANTONG YUAN VENTURE SDN BHDLOT 628 & 629 MK 12 JURU ESTATE",
+  "locType": "ShipCon",
+  "lat": "5.293485373081574",
+  "lng": "100.42823553085327",
+  "ShipConCode": "TONGYUAN",
+  "Name": "TONG YUAN VENTURE SDN BHD",
+  "Address1": "LOT 628 & 629 MK 12 JURU ESTATE"
+},
+{
+  "_id": {
+    "$oid": "5785cc97cddd21cfdb76d9d9"
+  },
+  "locId": "LVDZUN UTARA INDUSTRY SDN BHDLOT 13, KAWASAN PERINDUSTRIAN BANDAR DARULAMAN,",
+  "locType": "ShipCon",
+  "lat": "6.24693953637387",
+  "lng": "100.42593955993652",
+  "ShipConCode": "LVD",
+  "Name": "ZUN UTARA INDUSTRY SDN BHD",
+  "Address1": "LOT 13, KAWASAN PERINDUSTRIAN BANDAR DARULAMAN,"
+},
+{
+  "_id": {
+    "$oid": "5785ce67cddd21cfdb76d9e3"
+  },
+  "locId": "HLFFEHI-LI FROZEN FOOD ENTERPRISENO.12 , JALAN UTARA 2 ,",
+  "locType": "ShipCon",
+  "lat": "6.121774706730985",
+  "lng": "100.34298956394196",
+  "ShipConCode": "HLFFE",
+  "Name": "HI-LI FROZEN FOOD ENTERPRISE",
+  "Address1": "NO.12 , JALAN UTARA 2 ,"
+},
+{
+  "_id": {
+    "$oid": "578609ffcddd21cfdb76db19"
+  },
+  "locId": "CHIAOCHIAO HUAT SDN BHD1237-D JALAN PAYA TERUBONG,",
+  "locType": "ShipCon",
+  "lat": "5.385961838249694",
+  "lng": "100.27501702308653",
+  "ShipConCode": "CHIAO",
+  "Name": "CHIAO HUAT SDN BHD",
+  "Address1": "1237-D JALAN PAYA TERUBONG,"
+},
+{
+  "_id": {
+    "$oid": "57860a1acddd21cfdb76db1a"
+  },
+  "locId": "SITT TATTSITT TATT COMPANY SDN BHD (WAREHOUSE B)LOT 1981, JALAN PERMATANG PAUH",
+  "locType": "ShipCon",
+  "lat": "5.409012008783261",
+  "lng": "100.4018586874008",
+  "ShipConCode": "SITT TATT",
+  "Name": "SITT TATT COMPANY SDN BHD (WAREHOUSE B)",
+  "Address1": "LOT 1981, JALAN PERMATANG PAUH"
+},
+{
+  "_id": {
+    "$oid": "57860a51cddd21cfdb76db1b"
+  },
+  "locId": "DOUBLE TREDOUBLE TREE HOTELJALAN LOW YATT",
+  "locType": "ShipCon",
+  "lat": "5.478082478722894",
+  "lng": "100.2700924873352",
+  "ShipConCode": "DOUBLE TRE",
+  "Name": "DOUBLE TREE HOTEL",
+  "Address1": "JALAN LOW YATT"
+},
+{
+  "_id": {
+    "$oid": "57860a7acddd21cfdb76db1c"
+  },
+  "locId": "PFUKUDAPERNIAGAAN FUKUDAA38 LORONG SEJAHTERA",
+  "locType": "ShipCon",
+  "lat": "5.623513294572814",
+  "lng": "100.48396110534668",
+  "ShipConCode": "PFUKUDA",
+  "Name": "PERNIAGAAN FUKUDA",
+  "Address1": "A38 LORONG SEJAHTERA"
+},
+{
+  "_id": {
+    "$oid": "57860b20cddd21cfdb76db23"
+  },
+  "locId": "SUPPLY",
+  "locType": "CONTAINER_YARD",
+  "lat": "5.410683",
+  "lng": "100.36805",
+  "Address1": "",
+  "Name": "SUPPLY STREAM MNG (JLN DATO HJ AHMAD SAID)",
+  "ShipConCode": "SUPPLY"
+},
+{
+  "_id": {
+    "$oid": "57860bb8cddd21cfdb76db28"
+  },
+  "locId": "INTELKM2INTEL KULIM(KM2)LOT 8 JALAN HI-TECH 2/3",
+  "locType": "ShipCon",
+  "lat": "5.424910560746834",
+  "lng": "100.5881005525589",
+  "ShipConCode": "INTELKM2",
+  "Name": "INTEL KULIM(KM2)",
+  "Address1": "LOT 8 JALAN HI-TECH 2/3"
+},
+{
+  "_id": {
+    "$oid": "57860c6acddd21cfdb76db35"
+  },
+  "locId": "NORTERNNORTHERN FURNITURE MANUFACTURING PLT910,JURU ESTATE,JUR",
+  "locType": "ShipCon",
+  "lat": "5.314872528218242",
+  "lng": "100.43210864067078",
+  "ShipConCode": "NORTERN",
+  "Name": "NORTHERN FURNITURE MANUFACTURING PLT",
+  "Address1": "910,JURU ESTATE,JUR"
+},
+{
+  "_id": {
+    "$oid": "57860d12cddd21cfdb76db41"
+  },
+  "locId": "FFCSBCNC FREIGHT SEVICESD2 WAREHOUSE PENANG",
+  "locType": "ShipCon",
+  "lat": "5.388701628657458",
+  "lng": "100.37011206150054",
+  "ShipConCode": "FFCSB",
+  "Name": "CNC FREIGHT SEVICES",
+  "Address1": "D2 WAREHOUSE PENANG"
+},
+{
+  "_id": {
+    "$oid": "57860d2acddd21cfdb76db42"
+  },
+  "locId": "WONG ENGWONG ENGINEERING INDUSTRIES SDN BHDLOT 24,JALAN HI-TECH 4,",
+  "locType": "ShipCon",
+  "lat": "5.426539377668589",
+  "lng": "100.59723615646362",
+  "ShipConCode": "WONG ENG",
+  "Name": "WONG ENGINEERING INDUSTRIES SDN BHD",
+  "Address1": "LOT 24,JALAN HI-TECH 4,"
+},
+{
+  "_id": {
+    "$oid": "57860d67cddd21cfdb76db43"
+  },
+  "locId": "GUANGUAN SHEN TRADING SDN BHD.C/O : KHONG GUAN VEGETABLE OIL REF SDN BHD",
+  "locType": "ShipCon",
+  "lat": "5.41430979241699",
+  "lng": "100.3931200504303",
+  "ShipConCode": "GUAN",
+  "Name": "GUAN SHEN TRADING SDN BHD.",
+  "Address1": "C/O : KHONG GUAN VEGETABLE OIL REF SDN BHD"
+},
+{
+  "_id": {
+    "$oid": "57860e1acddd21cfdb76db4f"
+  },
+  "locId": "TEXCHEM PTEXCHEM-PACK (PP) SDN BHDPART OF LOT 1241, PHASE 3",
+  "locType": "ShipCon",
+  "lat": "5.329806774781258",
+  "lng": "100.29788017272948",
+  "ShipConCode": "TEXCHEM P",
+  "Name": "TEXCHEM-PACK (PP) SDN BHD",
+  "Address1": "PART OF LOT 1241, PHASE 3"
+},
+{
+  "_id": {
+    "$oid": "57860e5ecddd21cfdb76db54"
+  },
+  "locId": "GUANGC/O LIEW KHIM SHIN ENTERPRISENO9 ,LORONG MURNI 10",
+  "locType": "ShipCon",
+  "lat": "5.438352173925697",
+  "lng": "100.43007552623749",
+  "ShipConCode": "GUANG",
+  "Name": "C/O LIEW KHIM SHIN ENTERPRISE",
+  "Address1": "NO9 ,LORONG MURNI 10"
+},
+{
+  "_id": {
+    "$oid": "57860e9dcddd21cfdb76db5e"
+  },
+  "locId": "GENTLEGENTLE SUPREME SDN BHDC/O: LORRY COMMERCIAL",
+  "locType": "ShipCon",
+  "lat": "5.316709951501",
+  "lng": "100.45445680618286",
+  "ShipConCode": "GENTLE",
+  "Name": "GENTLE SUPREME SDN BHD",
+  "Address1": "C/O: LORRY COMMERCIAL"
+},
+{
+  "_id": {
+    "$oid": "57860ebecddd21cfdb76db5f"
+  },
+  "locId": "HOCKSONHOCKSON RUBBERLOT 133,134 &135",
+  "locType": "ShipCon",
+  "lat": "5.454164509708626",
+  "lng": "100.54589331150055",
+  "ShipConCode": "HOCKSON",
+  "Name": "HOCKSON RUBBER",
+  "Address1": "LOT 133,134 &135"
+},
+{
+  "_id": {
+    "$oid": "57860edacddd21cfdb76db63"
+  },
+  "locId": "HOCKSONHOCKSON RUBBERLOT 133,134 & 135",
+  "locType": "ShipCon",
+  "lat": "5.454164509708626",
+  "lng": "100.54589331150055",
+  "ShipConCode": "HOCKSON",
+  "Name": "HOCKSON RUBBER",
+  "Address1": "LOT 133,134 & 135"
+},
+{
+  "_id": {
+    "$oid": "57860ef2cddd21cfdb76db64"
+  },
+  "locId": "VICTORYVICTORY BICYCLE INDUSTRIES SDN BHDNO.2 (A&B), LORONG PERUSHAAN 1",
+  "locType": "ShipCon",
+  "lat": "4.8132925117209515",
+  "lng": "100.73491394519806",
+  "ShipConCode": "VICTORY",
+  "Name": "VICTORY BICYCLE INDUSTRIES SDN BHD",
+  "Address1": "NO.2 (A&B), LORONG PERUSHAAN 1"
+},
+{
+  "_id": {
+    "$oid": "57861707cddd21cfdb76db9c"
+  },
+  "locId": "CEN CHEMINCENTURY CHEMICAL WORKS S/BPLOT 48, MUKIM 1",
+  "locType": "ShipCon",
+  "lat": "5.438352173925697",
+  "lng": "100.43009161949158",
+  "ShipConCode": "CEN CHEMIN",
+  "Name": "CENTURY CHEMICAL WORKS SDN. BHD.",
+  "Address1": "PLOT 48, MUKIM 1"
+},
+{
+  "_id": {
+    "$oid": "578617d6cddd21cfdb76db9d"
+  },
+  "locId": "BARDC/O FUJI LOGISTICS (M) SDN BHD (BONDED WAREHOUSE)LOT 1 &2 SMI PARK ZONE 2,",
+  "locType": "ShipCon",
+  "lat": "5.421636892454101",
+  "lng": "100.59687674045563",
+  "ShipConCode": "BARD",
+  "Name": "C/O FUJI LOGISTICS (M) SDN BHD (BONDED WAREHOUSE)",
+  "Address1": "LOT 1 &2 SMI PARK ZONE 2,"
+},
+{
+  "_id": {
+    "$oid": "5786e7e2cddd21cfdb76dd95"
+  },
+  "locId": "DAEWOODAEWOO ELECTRONICS (M) SDN BHDLOT 8 JLN PKNK1/2",
+  "locType": "ShipCon",
+  "lat": "5.653013651987728",
+  "lng": "100.52788496017456",
+  "ShipConCode": "DAEWOO",
+  "Name": "DAEWOO ELECTRONICS (M) SDN BHD",
+  "Address1": "LOT 8 JLN PKNK1/2"
+},
+{
+  "_id": {
+    "$oid": "5786e825cddd21cfdb76dd98"
+  },
+  "locId": "FIBREFM DISTRIBUTION SDN BHDNO.1077 LORONG PERUSHAAN MAJU 1",
+  "locType": "ShipCon",
+  "lat": "5.3556096899341155",
+  "lng": "100.40007770061493",
+  "ShipConCode": "FIBRE",
+  "Name": "FM DISTRIBUTION SDN BHD",
+  "Address1": "NO.1077 LORONG PERUSHAAN MAJU 1"
+},
+{
+  "_id": {
+    "$oid": "57885538cddd21cfdb76e514"
+  },
+  "locId": "DELLYCH DISTRIPACK SDN BHD (YCH 5)PLOT 32 KAWASAN PERUSAHAAN BKT MINYAK",
+  "locType": "ShipCon",
+  "lat": "5.318205524543529",
+  "lng": "100.45267581939697",
+  "ShipConCode": "DELL",
+  "Name": "YCH DISTRIPACK SDN BHD (YCH 5)",
+  "Address1": "PLOT 32 KAWASAN PERUSAHAAN BKT MINYAK"
+},
+{
+  "_id": {
+    "$oid": "57885741cddd21cfdb76e542"
+  },
+  "locId": "JDLGENTING EHSANLOT 210 & 211 ,FASA II , KAWASAN PERUSAHAAN KUALA KETIL",
+  "locType": "ShipCon",
+  "lat": "5.5920680893977",
+  "lng": "100.64415335655212",
+  "ShipConCode": "JDL",
+  "Name": "GENTING EHSAN",
+  "Address1": "LOT 210 & 211 ,FASA II , KAWASAN PERUSAHAAN KUALA KETIL"
+},
+{
+  "_id": {
+    "$oid": "5788576ecddd21cfdb76e543"
+  },
+  "locId": "FIBREC/O NIPPON EXPRESS (M) SDN BHDLOT 2867, LORONG MAK MANDIN 5",
+  "locType": "ShipCon",
+  "lat": "5.419265741527712",
+  "lng": "100.39160728454588",
+  "ShipConCode": "FIBRE",
+  "Name": "C/O NIPPON EXPRESS (M) SDN BHD",
+  "Address1": "LOT 2867, LORONG MAK MANDIN 5"
+},
+{
+  "_id": {
+    "$oid": "5788579fcddd21cfdb76e544"
+  },
+  "locId": "SIKAMKAWOOD K.D. S/BLOT 3795, TINGKAT SELAMAT II",
+  "locType": "ShipCon",
+  "lat": "5.520431860340931",
+  "lng": "100.52390992641449",
+  "ShipConCode": "SIK",
+  "Name": "AMKAWOOD K.D. S/B",
+  "Address1": "LOT 3795, TINGKAT SELAMAT II"
+},
+{
+  "_id": {
+    "$oid": "57885875cddd21cfdb76e549"
+  },
+  "locId": "BWCT",
+  "locType": "PORT",
+  "lat": "5.389534778845946",
+  "lng": "100.36793410778046"
+},
+{
+  "_id": {
+    "$oid": "57885b91cddd21cfdb76e554"
+  },
+  "locId": "UNI PIPEUNI PIPES (M) SDN BHDLOT 489, LORONG PERUSAHAAN BARU 2,",
+  "locType": "ShipCon",
+  "lat": "5.365388982786032",
+  "lng": "100.40409564971922",
+  "ShipConCode": "UNI PIPE",
+  "Name": "UNI PIPES (M) SDN BHD",
+  "Address1": "LOT 489, LORONG PERUSAHAAN BARU 2,"
+},
+{
+  "_id": {
+    "$oid": "5789dcb0cddd21cfdb76ec47"
+  },
+  "locId": "BEYEBEYE ALUMINIUM TRADING SDN BHDNO.22 & 24, JALAN PALA 14",
+  "locType": "ShipCon",
+  "lat": "5.308121018861517",
+  "lng": "100.47385454177856",
+  "ShipConCode": "BEYE",
+  "Name": "BEYE ALUMINIUM TRADING SDN BHD",
+  "Address1": "NO.22 & 24, JALAN PALA 14"
+},
+{
+  "_id": {
+    "$oid": "5789dd8ecddd21cfdb76ec49"
+  },
+  "locId": "LNMSLE NAM MEGA SHEET (M) SDN BHD768, LORONG PERUSAHAAN BUKIT MINYAK 9,",
+  "locType": "ShipCon",
+  "lat": "5.312276624354149",
+  "lng": "100.44884026050568",
+  "ShipConCode": "LNMS",
+  "Name": "LE NAM MEGA SHEET (M) SDN BHD",
+  "Address1": "768, LORONG PERUSAHAAN BUKIT MINYAK 9,"
+},
+{
+  "_id": {
+    "$oid": "578c5e99cddd21cfdb76f081"
+  },
+  "locId": "JMKJMK TRADING SDN BHD13 LORONG TENAGAJAYA 1,",
+  "locType": "ShipCon",
+  "lat": "5.255099879435559",
+  "lng": "100.47320008277893",
+  "ShipConCode": "JMK",
+  "Name": "JMK TRADING SDN BHD",
+  "Address1": "13 LORONG TENAGAJAYA 1,"
+},
+{
+  "_id": {
+    "$oid": "578d8c36cddd21cfdb76f6e3"
+  },
+  "locId": "SIKW.H TIMBER S/B (NEW PLANT)LOT 65 & 66, JLN 12 BAKAR ARANG IND ESTATE",
+  "locType": "ShipCon",
+  "lat": "5.62348660156954",
+  "lng": "100.49297332763672",
+  "ShipConCode": "SIK",
+  "Name": "W.H TIMBER S/B (NEW PLANT)",
+  "Address1": "LOT 65 & 66, JLN 12 BAKAR ARANG IND ESTATE"
+},
+{
+  "_id": {
+    "$oid": "578d8cb6cddd21cfdb76f6e7"
+  },
+  "locId": "SKY2SKY THOMAS FOOD INDUSTRIES SDN BHD1066 JALAN PERINDUSTRIAN BUKIT MINYAK 2,",
+  "locType": "ShipCon",
+  "lat": "5.306684177027147",
+  "lng": "100.45989632606506",
+  "ShipConCode": "SKY2",
+  "Name": "SKY THOMAS FOOD INDUSTRIES SDN BHD",
+  "Address1": "1066 JALAN PERINDUSTRIAN BUKIT MINYAK 2,"
+},
+{
+  "_id": {
+    "$oid": "578dc62acddd21cfdb76f868"
+  },
+  "locId": "KERRY INGYCH DISTRIPARK SDN BHDPLOT 307 & 308A, JALAN PERINDUSTRIAN BUKIT MINYAK",
+  "locType": "ShipCon",
+  "lat": "5.292555944452752",
+  "lng": "100.44637799263",
+  "ShipConCode": "KERRY ING",
+  "Name": "KERRY INGREDIENTS (M) SDN BHD",
+  "Address1": "PLOT 307 & 308A, JALAN PERINDUSTRIAN BUKIT MINYAK"
+},
+{
+  "_id": {
+    "$oid": "57bbba1c546d8467d82e6f3e"
+  },
+  "locId": "HL MATERIAHL MATERIAL RESOURCES SDN BHD1073,JALAN AMAN 2/2",
+  "locType": "ShipCon",
+  "lat": "5.452637230322156",
+  "lng": "100.54389238357544",
+  "ShipConCode": "HL MATERIA",
+  "Name": "HL MATERIAL RESOURCES SDN BHD",
+  "Address1": "1073,JALAN AMAN 2/2"
+},
+{
+  "_id": {
+    "$oid": "5771c809cddd21cfdb76a169"
+  },
+  "locId": "AY",
+  "locType": "CONTAINER YARD",
+  "lat": "5.374329608171534",
+  "lng": "100.39068460464478"
+},
+{
+  "_id": {
+    "$oid": "5771c82dcddd21cfdb76a16b"
+  },
+  "locId": "NBCT",
+  "locType": "PORT",
+  "lat": "5.410186427267324",
+  "lng": "100.36726891994478",
+  "Address1": "",
+  "Name": "NBCT",
+  "ShipConCode": "NBCT"
+},
+{
+  "_id": {
+    "$oid": "5771c857cddd21cfdb76a16c"
+  },
+  "locId": "KERRY INGYCH DISTRIPARK SDN BHDPLOT 307 & 308A, JALAN PERINDUSTRIAN BUKIT",
+  "locType": "ShipCon",
+  "lat": "5.292555944452752",
+  "lng": "100.44637799263",
+  "ShipConCode": "KERRY ING",
+  "Name": "YCH DISTRIPARK SDN BHD",
+  "Address1": "PLOT 307 & 308A, JALAN PERINDUSTRIAN BUKIT"
+},
+{
+  "_id": {
+    "$oid": "5771f258cddd21cfdb76a2db"
+  },
+  "locId": "SANMINA-SCSANMINA - SCI SYS SDN BHD202 LORONG PERUSAHAAN MAJU 9",
+  "locType": "ShipCon",
+  "lat": "5.339613185580475",
+  "lng": "100.42542457580566",
+  "ShipConCode": "SANMINA-SC",
+  "Name": "SANMINA - SCI SYS SDN BHD",
+  "Address1": "202 LORONG PERUSAHAAN MAJU 9"
+},
+{
+  "_id": {
+    "$oid": "5771f568cddd21cfdb76a2fe"
+  },
+  "locId": "MAXWELLMAXWELL GLOVE MANUFACTURING BERHADPLOT 116 & 117,JALAN LOGAM 7,",
+  "locType": "ShipCon",
+  "lat": "4.8806638423387785",
+  "lng": "100.70711553096771",
+  "ShipConCode": "MAXWELL",
+  "Name": "MAXWELL GLOVE MANUFACTURING BERHAD",
+  "Address1": "PLOT 116 & 117,JALAN LOGAM 7,"
+},
+{
+  "_id": {
+    "$oid": "57721db0cddd21cfdb76a40f"
+  },
+  "locId": "FIBREPENFIBRE SDN BHD - PF22720, LORONG PERUSHAAN 4",
+  "locType": "ShipCon",
+  "lat": "5.359214854349651",
+  "lng": "100.38576006889343",
+  "ShipConCode": "FIBRE",
+  "Name": "PENFIBRE SDN BHD - PF2",
+  "Address1": "2720, LORONG PERUSHAAN 4"
+},
+{
+  "_id": {
+    "$oid": "57721e5dcddd21cfdb76a41f"
+  },
+  "locId": "PPSB",
+  "locType": "CONTAINER YARD",
+  "lat": "5.383104538799187",
+  "lng": "100.37334680557251"
+},
+{
+  "_id": {
+    "$oid": "5773086bcddd21cfdb76a7e6"
+  },
+  "locId": "TONGYUANGENTING EHSANLOT 210 & 211, FASA II,",
+  "locType": "ShipCon",
+  "lat": "5.592121478277537",
+  "lng": "100.64385294914246",
+  "ShipConCode": "TONGYUAN",
+  "Name": "GENTING EHSAN",
+  "Address1": "LOT 210 & 211, FASA II,"
+},
+{
+  "_id": {
+    "$oid": "57734812cddd21cfdb76ab39"
+  },
+  "locId": "PRECISPRECISION SPRINGS (M) S/B4249,JALAN SIRAM",
+  "locType": "ShipCon",
+  "lat": "5.407473933877292",
+  "lng": "100.37824988365172",
+  "ShipConCode": "PRECIS",
+  "Name": "PRECISION SPRINGS (M) S/B",
+  "Address1": "4249,JALAN SIRAM"
+},
+{
+  "_id": {
+    "$oid": "577366c1cddd21cfdb76ac1b"
+  },
+  "locId": "MSC",
+  "locType": "CONTAINER YARD",
+  "lat": "5.366147392178947",
+  "lng": "100.3846764564514"
+},
+{
+  "_id": {
+    "$oid": "5777b439cddd21cfdb76c271"
+  },
+  "locId": "LEELEE GAIK KHUAN COFFEE POWDER & FLOUR SDN BHD1261, PERMATANG PAUH",
+  "locType": "ShipCon",
+  "lat": "5.408558063471091",
+  "lng": "100.41401445865631",
+  "ShipConCode": "LEE",
+  "Name": "LEE GAIK KHUAN COFFEE POWDER & FLOUR SDN BHD",
+  "Address1": "1261, PERMATANG PAUH"
+},
+{
+  "_id": {
+    "$oid": "5777b4eecddd21cfdb76c274"
+  },
+  "locId": "BARBARKATH CO RO MANUFACTURING SDN BHD1140,LORONG PERUSAHAAN SG.LOKAN",
+  "locType": "ShipCon",
+  "lat": "5.434346957026628",
+  "lng": "100.41079580783844",
+  "ShipConCode": "BAR",
+  "Name": "BARKATH CO RO MANUFACTURING SDN BHD",
+  "Address1": "1140,LORONG PERUSAHAAN SG.LOKAN"
+},
+{
+  "_id": {
+    "$oid": "57785e72cddd21cfdb76c288"
+  },
+  "locId": "JSHJIN SHENG FURNITURE INDUSTRY S/B(NEW FACTORY)",
+  "locType": "ShipCon",
+  "lat": "5.501812600585734",
+  "lng": "100.5958092212677",
+  "ShipConCode": "JSH",
+  "Name": "JIN SHENG FURNITURE INDUSTRY S/B",
+  "Address1": "(NEW FACTORY)"
+},
+{
+  "_id": {
+    "$oid": "57785fd1cddd21cfdb76c28a"
+  },
+  "locId": "E.A.E",
+  "locType": "CONTAINER YARD",
+  "lat": "5.422790421969986",
+  "lng": "100.39875268936157"
+},
+{
+  "_id": {
+    "$oid": "57786010cddd21cfdb76c28c"
+  },
+  "locId": "CNC FCNC FREIGHT SERVICES (PG) S/BD2 WAREHOUSE, PENANG",
+  "locType": "ShipCon",
+  "lat": "5.349665127951625",
+  "lng": "100.39698243141174",
+  "ShipConCode": "CNC F",
+  "Name": "CNC FREIGHT SERVICES (PG) S/B",
+  "Address1": "D2 WAREHOUSE, PENANG"
+},
+{
+  "_id": {
+    "$oid": "57786110cddd21cfdb76c28e"
+  },
+  "locId": "MEDAN",
+  "locType": "CONTAINER YARD",
+  "lat": "5.365933755825637",
+  "lng": "100.40825843811035"
+},
+{
+  "_id": {
+    "$oid": "5778616bcddd21cfdb76c290"
+  },
+  "locId": "PINLYPINLY GARMENT (M) SDN BHDNO 1014 JALAN MAKMUR 2/7,",
+  "locType": "ShipCon",
+  "lat": "5.447008691628618",
+  "lng": "100.54485261440277",
+  "ShipConCode": "PINLY",
+  "Name": "PINLY GARMENT (M) SDN BHD",
+  "Address1": "NO 1014 JALAN MAKMUR 2/7,"
+},
+{
+  "_id": {
+    "$oid": "57786317cddd21cfdb76c293"
+  },
+  "locId": "EVGEVERGREEN PAPER (M) SDN BHD5897, LORONG MAK MANDIN 5",
+  "locType": "ShipCon",
+  "lat": "5.419153592266815",
+  "lng": "100.39215445518494",
+  "ShipConCode": "EVG",
+  "Name": "EVERGREEN PAPER (M) SDN BHD",
+  "Address1": "5897, LORONG MAK MANDIN 5"
+},
+{
+  "_id": {
+    "$oid": "57786350cddd21cfdb76c294"
+  },
+  "locId": "FIBREPENFIBRE SDN BHD - FILM DIVISIONLOT 128-LOT 130 PRAI FREE INDUSTRIAL ZONE 1,",
+  "locType": "ShipCon",
+  "lat": "5.362985566510394",
+  "lng": "100.39093136787415",
+  "ShipConCode": "FIBRE",
+  "Name": "PENFIBRE SDN BHD - FILM DIVISION",
+  "Address1": "LOT 128-LOT 130 PRAI FREE INDUSTRIAL ZONE 1,"
+},
+{
+  "_id": {
+    "$oid": "57786386cddd21cfdb76c295"
+  },
+  "locId": "CHEEWCHEE WAH CORPORATION BERHAD (GATE 2)6428, LORONG MAK MANDIN 3",
+  "locType": "ShipCon",
+  "lat": "5.416419280035112",
+  "lng": "100.38790583610535",
+  "ShipConCode": "CHEEW",
+  "Name": "CHEE WAH CORPORATION BERHAD (GATE 2)",
+  "Address1": "6428, LORONG MAK MANDIN 3"
+},
+{
+  "_id": {
+    "$oid": "577863facddd21cfdb76c297"
+  },
+  "locId": "ENG3ENG TEKNOLOGI SDN BHDPLOT 69-70 PESARA KG JAWA",
+  "locType": "ShipCon",
+  "lat": "5.318376446945605",
+  "lng": "100.28887867927551",
+  "ShipConCode": "ENG3",
+  "Name": "ENG TEKNOLOGI SDN BHD",
+  "Address1": "PLOT 69-70 PESARA KG JAWA"
+},
+{
+  "_id": {
+    "$oid": "5779cf2dcddd21cfdb76c38a"
+  },
+  "locId": "BARDBARD SDN BHDLOT 57-C KULIM INDUSTRIAL ESTATE,",
+  "locType": "ShipCon",
+  "lat": "5.4169693477479495",
+  "lng": "100.56000709533691",
+  "ShipConCode": "BARD",
+  "Name": "BARD SDN BHD",
+  "Address1": "LOT 57-C KULIM INDUSTRIAL ESTATE,"
+},
+{
+  "_id": {
+    "$oid": "5779de2bcddd21cfdb76c4b1"
+  },
+  "locId": "FPIFORMOSA PROSONIC IND.SDN BHDPLOT 119C, TAMAN RIA",
+  "locType": "ShipCon",
+  "lat": "5.650120270347016",
+  "lng": "100.53688645362854",
+  "ShipConCode": "FPI",
+  "Name": "FORMOSA PROSONIC IND.SDN BHD",
+  "Address1": "PLOT 119C, TAMAN RIA"
+},
+{
+  "_id": {
+    "$oid": "57885556cddd21cfdb76e51b"
+  },
+  "locId": "WAH MAWAH MA CHEMICAL SDN BHDLOT 2629 MUKIM 16,KAWASAN PERUSAHAAN ACKU",
+  "locType": "ShipCon",
+  "lat": "5.4287129068406434",
+  "lng": "100.41098892688751",
+  "ShipConCode": "WAH MA",
+  "Name": "WAH MA CHEMICAL SDN BHD",
+  "Address1": "LOT 2629 MUKIM 16,KAWASAN PERUSAHAAN ACKU"
+},
+{
+  "_id": {
+    "$oid": "5788583fcddd21cfdb76e548"
+  },
+  "locId": "SHANSHAN ART PRINTING (M) SDN BHD461-A, JALAN PERMATANG RAWA",
+  "locType": "ShipCon",
+  "lat": "5.366441142042601",
+  "lng": "100.42988777160645",
+  "ShipConCode": "SHAN",
+  "Name": "SHAN ART PRINTING (M) SDN BHD",
+  "Address1": "461-A, JALAN PERMATANG RAWA"
+},
+{
+  "_id": {
+    "$oid": "57885992cddd21cfdb76e54d"
+  },
+  "locId": "PREMIUMPREMIUM SOUND SOLUTIONC/O BLAUPUNKT SDN BHD",
+  "locType": "ShipCon",
+  "lat": "5.256819959263569",
+  "lng": "100.4739725589752",
+  "ShipConCode": "PREMIUM",
+  "Name": "PREMIUM SOUND SOLUTION",
+  "Address1": "C/O BLAUPUNKT SDN BHD"
+},
+{
+  "_id": {
+    "$oid": "57885c03cddd21cfdb76e555"
+  },
+  "locId": "UCHIUCHI OPTOELECTRONIC (M) SDN BHD3097 TINGKAT PERUSAHAAN 4A,",
+  "locType": "ShipCon",
+  "lat": "5.388482659507998",
+  "lng": "100.37119030952454",
+  "ShipConCode": "UCHI",
+  "Name": "UCHI OPTOELECTRONIC (M) SDN BHD",
+  "Address1": "3097 TINGKAT PERUSAHAAN 4A,"
+},
+{
+  "_id": {
+    "$oid": "5789dd07cddd21cfdb76ec48"
+  },
+  "locId": "PRIORITYPRIORITY BONDED WAREHOUSEPLOT 110, HALA KAMPUNG JAWA 2",
+  "locType": "ShipCon",
+  "lat": "5.310652843537472",
+  "lng": "100.29595971107483",
+  "ShipConCode": "PRIORITY",
+  "Name": "PRIORITY BONDED WAREHOUSE",
+  "Address1": "PLOT 110, HALA KAMPUNG JAWA 2"
+},
+{
+  "_id": {
+    "$oid": "578c243ecddd21cfdb76ef1b"
+  },
+  "locId": "KERRY INGYCH DISTRIPARK SDN BHDPLOT 307 & 308A, JALAN PERINDUSTRIAN",
+  "locType": "ShipCon",
+  "lat": "5.292555944452752",
+  "lng": "100.44637799263",
+  "ShipConCode": "KERRY ING",
+  "Name": "KERRY INGREDIENTS (M) SDN BHD",
+  "Address1": "PLOT 307 & 308A, JALAN PERINDUSTRIAN"
+},
+{
+  "_id": {
+    "$oid": "578ca384cddd21cfdb76f300"
+  },
+  "locId": "KERRY INGINTEGRATED COLD CHAIN LOGISTICS SDN BHDNO. 988, JALAN PERINDUSTRIAN BUKIT MINYAK,",
+  "locType": "ShipCon",
+  "lat": "5.320705259943899",
+  "lng": "100.452863574028",
+  "ShipConCode": "KERRY ING",
+  "Name": "INTEGRATED COLD CHAIN LOGISTICS SDN BHD",
+  "Address1": "NO. 988, JALAN PERINDUSTRIAN BUKIT MINYAK,"
+},
+{
+  "_id": {
+    "$oid": "578d8c6dcddd21cfdb76f6e4"
+  },
+  "locId": "SWEEHINCHASWEE HIN CHAN CO SDN BHD2507 JALAN PERUSAHAAN 10",
+  "locType": "ShipCon",
+  "lat": "5.350957661169118",
+  "lng": "100.40197134017944",
+  "ShipConCode": "SWEEHINCHA",
+  "Name": "SWEE HIN CHAN CO SDN BHD",
+  "Address1": "2507 JALAN PERUSAHAAN 10"
+},
+{
+  "_id": {
+    "$oid": "578d8cdacddd21cfdb76f6ea"
+  },
+  "locId": "MAESFOODMAESTRO SWISS FOOD SDN BHD5893 LORONG MAK MANDIN",
+  "locType": "ShipCon",
+  "lat": "5.417727692705714",
+  "lng": "100.39187550544739",
+  "ShipConCode": "MAESFOOD",
+  "Name": "MAESTRO SWISS FOOD SDN BHD",
+  "Address1": "5893 LORONG MAK MANDIN"
+},
+{
+  "_id": {
+    "$oid": "578d8d13cddd21cfdb76f6eb"
+  },
+  "locId": "EURODYNASPAN FURNITURE SDN BHDNO.2,LORONG BAKAU 3,",
+  "locType": "ShipCon",
+  "lat": "5.221947352697479",
+  "lng": "100.53390920162201",
+  "ShipConCode": "EURO",
+  "Name": "DYNASPAN FURNITURE SDN BHD",
+  "Address1": "NO.2,LORONG BAKAU 3,"
+},
+{
+  "_id": {
+    "$oid": "578d8d5acddd21cfdb76f6ec"
+  },
+  "locId": "JOHORJOHOR BAHRU FLOUR MILL SDN BHD2429, MK1 TINGKAT PERUSAHAAN DUA,",
+  "locType": "ShipCon",
+  "lat": "5.368367",
+  "lng": "100.386033",
+  "ShipConCode": "JOHOR",
+  "Name": "JOHOR BAHRU FLOUR MILL SDN BHD",
+  "Address1": "2429, MK1 TINGKAT PERUSAHAAN DUA,"
+},
+{
+  "_id": {
+    "$oid": "578dc64fcddd21cfdb76f869"
+  },
+  "locId": "DHL PROC/O AGILENT TECHNOLOGIES MICROWAVEPLOT 99A, SOLOK BAYAN LEPAS",
+  "locType": "ShipCon",
+  "lat": "5.289062562290677",
+  "lng": "100.28680801391602",
+  "ShipConCode": "DHL PRO",
+  "Name": "C/O AGILENT TECHNOLOGIES MICROWAVE",
+  "Address1": "PLOT 99A, SOLOK BAYAN LEPAS"
+},
+{
+  "_id": {
+    "$oid": "578dc65ccddd21cfdb76f86a"
+  },
+  "locId": "TELE2TELEFLEX MEDICAL RUSCH SDN BHDLOT NO. PT 2577 JALAN PERUSAHAAN 4",
+  "locType": "ShipCon",
+  "lat": "4.900258204886424",
+  "lng": "100.71389079093933",
+  "ShipConCode": "TELE2",
+  "Name": "TELEFLEX MEDICAL RUSCH SDN BHD",
+  "Address1": "LOT NO. PT 2577 JALAN PERUSAHAAN 4"
+},
+{
+  "_id": {
+    "$oid": "578dc698cddd21cfdb76f86b"
+  },
+  "locId": "BECHMARKC/O PRIORITY BONDED WAREHOUSE SDN BHDPLOT 110, HALA KAMPUNG JAWA 2",
+  "locType": "ShipCon",
+  "lat": "5.3106475021461526",
+  "lng": "100.29574513435362",
+  "ShipConCode": "BECHMARK",
+  "Name": "C/O PRIORITY BONDED WAREHOUSE SDN BHD",
+  "Address1": "PLOT 110, HALA KAMPUNG JAWA 2"
+},
+{
+  "_id": {
+    "$oid": "578dc6b2cddd21cfdb76f86c"
+  },
+  "locId": "BARSOUTHERN PLASTICS PRODUCTS SDN BHD8042,KAWASAN PERINDUSTRIAN KAMPUNG TELUK",
+  "locType": "ShipCon",
+  "lat": "5.4425923345026375",
+  "lng": "100.41691660881042",
+  "ShipConCode": "BAR",
+  "Name": "SOUTHERN PLASTICS PRODUCTS SDN BHD",
+  "Address1": "8042,KAWASAN PERINDUSTRIAN KAMPUNG TELUK"
+},
+{
+  "_id": {
+    "$oid": "578dc6cccddd21cfdb76f86d"
+  },
+  "locId": "CMA",
+  "locType": "CONTAINER YARD",
+  "lat": "5.364011025279168",
+  "lng": "100.40507197380066"
+},
+{
+  "_id": {
+    "$oid": "578dc6fccddd21cfdb76f86e"
+  },
+  "locId": "WE",
+  "locType": "PORT",
+  "lat": "2.949898287644173",
+  "lng": "101.30767822265625"
+},
+{
+  "_id": {
+    "$oid": "578de1adcddd21cfdb76fa5b"
+  },
+  "locId": "AMBUAMBU SDN BHDLOT 69 B LINTANG BAYAN LEPAS 6",
+  "locType": "ShipCon",
+  "lat": "5.302459094848241",
+  "lng": "100.28695285320282",
+  "ShipConCode": "AMBU",
+  "Name": "AMBU SDN BHD",
+  "Address1": "LOT 69 B LINTANG BAYAN LEPAS 6"
+},
+{
+  "_id": {
+    "$oid": "578eea2dcddd21cfdb76ff06"
+  },
+  "locId": "ANNANN JOO STEEL BERHADLOT 236, PRAI IND ESTATE,",
+  "locType": "ShipCon",
+  "lat": "5.38172662136768",
+  "lng": "100.38077116012573",
+  "ShipConCode": "ANN",
+  "Name": "ANN JOO STEEL BERHAD",
+  "Address1": "LOT 236, PRAI IND ESTATE,"
+},
+{
+  "_id": {
+    "$oid": "578eea95cddd21cfdb76ff07"
+  },
+  "locId": "MALEXMALEXPORT ENTERPRISE4, GOTTLIEB ROAD",
+  "locType": "ShipCon",
+  "lat": "5.4321360658877005",
+  "lng": "100.30212879180907",
+  "ShipConCode": "MALEX",
+  "Name": "MALEXPORT ENTERPRISE",
+  "Address1": "4, GOTTLIEB ROAD"
+},
+{
+  "_id": {
+    "$oid": "578eeac1cddd21cfdb76ff10"
+  },
+  "locId": "SK PLASSK PLASTIC IND (M) SDN BHD.98 JLN FAIRUZ 5,",
+  "locType": "ShipCon",
+  "lat": "5.621970436973708",
+  "lng": "100.47208964824677",
+  "ShipConCode": "SK PLAS",
+  "Name": "SK PLASTIC IND (M) SDN BHD.",
+  "Address1": "98 JLN FAIRUZ 5,"
+},
+{
+  "_id": {
+    "$oid": "578eeaf9cddd21cfdb76ff11"
+  },
+  "locId": "ROBERT AUTROBERT BOSCH AUTOMOTIVE STEERING8, JALAN IKS JURU JAYA",
+  "locType": "ShipCon",
+  "lat": "5.3103537255520115",
+  "lng": "100.43111622333527",
+  "ShipConCode": "ROBERT AUT",
+  "Name": "ROBERT BOSCH AUTOMOTIVE STEERING",
+  "Address1": "8, JALAN IKS JURU JAYA"
+},
+{
+  "_id": {
+    "$oid": "57bbb5fe546d8467d82e6f20"
+  },
+  "locId": "FFCSB2CNC FREIGHT SERVICESD2 WAREHOUSE PENANG",
+  "locType": "ShipCon",
+  "lat": "5.388701628657458",
+  "lng": "100.37011206150054",
+  "ShipConCode": "FFCSB2",
+  "Name": "FUJIKURA",
+  "Address1": "D2 WAREHOUSE PENANG"
+},
+{
+  "_id": {
+    "$oid": "57bbb637546d8467d82e6f21"
+  },
+  "locId": "KLB",
+  "locType": "CONTAINER YARD",
+  "lat": "5.3700409016070285",
+  "lng": "100.39406418800353"
+},
+{
+  "_id": {
+    "$oid": "57bbb669546d8467d82e6f22"
+  },
+  "locId": "BCHBAN CHAN HUAT1119, JALAN BANGGALI,",
+  "locType": "ShipCon",
+  "lat": "5.504605259767584",
+  "lng": "100.37696778774261",
+  "ShipConCode": "BCH",
+  "Name": "BAN CHAN HUAT",
+  "Address1": "1119, JALAN BANGGALI,"
+},
+{
+  "_id": {
+    "$oid": "57bbb69d546d8467d82e6f29"
+  },
+  "locId": "SNBSNT HARDWARE SDN BHDNO 3704 JALAN BESAR SUNGAI BAKAP",
+  "locType": "ShipCon",
+  "lat": "5.209500011351529",
+  "lng": "100.49588084220886",
+  "ShipConCode": "SNB",
+  "Name": "SNT HARDWARE SDN BHD",
+  "Address1": "NO 3704 JALAN BESAR SUNGAI BAKAP"
+},
+{
+  "_id": {
+    "$oid": "57bbb904546d8467d82e6f32"
+  },
+  "locId": "WAHWAH TAG SDN BHD3095, LORONG PERUSAHAAN 8B,",
+  "locType": "ShipCon",
+  "lat": "5.350113776154741",
+  "lng": "100.39983630180359",
+  "ShipConCode": "WAH",
+  "Name": "WAH TAG SDN BHD",
+  "Address1": "3095, LORONG PERUSAHAAN 8B,"
+},
+{
+  "_id": {
+    "$oid": "57bbb91b546d8467d82e6f33"
+  },
+  "locId": "THEONLYTHE ONLY ONE BEVERAGE SDN BHD8 LRG JELAWAT 4 SEBERANG JAYA",
+  "locType": "ShipCon",
+  "lat": "5.402838323371684",
+  "lng": "100.39388716220856",
+  "ShipConCode": "THEONLY",
+  "Name": "THE ONLY ONE BEVERAGE SDN BHD",
+  "Address1": "8 LRG JELAWAT 4 SEBERANG JAYA"
+},
+{
+  "_id": {
+    "$oid": "57bbb95f546d8467d82e6f34"
+  },
+  "locId": "ENTEENTEGRIS  ( MALAYSIA ) SDN BHDLOT 17, PHASE 1",
+  "locType": "ShipCon",
+  "lat": "5.420104190104066",
+  "lng": "100.59071838855743",
+  "ShipConCode": "ENTE",
+  "Name": "ENTEGRIS  ( MALAYSIA ) SDN BHD",
+  "Address1": "LOT 17, PHASE 1"
+},
+{
+  "_id": {
+    "$oid": "57bbb98b546d8467d82e6f35"
+  },
+  "locId": "BKT RYBUKIT MERAH MEMORIAL MARKETING SDN BHDKM 14, JALAN BUKIT MERAH-CHANGKAT LOBAK,",
+  "locType": "ShipCon",
+  "lat": "5.1091163314892825",
+  "lng": "100.66484928131102",
+  "ShipConCode": "BKT RY",
+  "Name": "BUKIT MERAH MEMORIAL MARKETING SDN BHD",
+  "Address1": "KM 14, JALAN BUKIT MERAH-CHANGKAT LOBAK,"
+},
+{
+  "_id": {
+    "$oid": "57bbb9b7546d8467d82e6f36"
+  },
+  "locId": "PSP-PRPSPPLOT 80,TINGKAT PERUSAHAAN 6",
+  "locType": "ShipCon",
+  "lat": "5.349654445847539",
+  "lng": "100.41485667228699",
+  "ShipConCode": "PSP-PR",
+  "Name": "PSP",
+  "Address1": "PLOT 80,TINGKAT PERUSAHAAN 6"
+},
+{
+  "_id": {
+    "$oid": "57bbc5e2546d8467d82e6f6a"
+  },
+  "locId": "GLOBAL2GLOBAL POINT FOODS IND SDN BHD1507 LORONG MAKMUR 3/2,",
+  "locType": "ShipCon",
+  "lat": "5.439163894636105",
+  "lng": "100.54989516735077",
+  "ShipConCode": "GLOBAL2",
+  "Name": "GLOBAL POINT FOODS IND SDN BHD",
+  "Address1": "1507 LORONG MAKMUR 3/2,"
+},
+{
+  "_id": {
+    "$oid": "6451d7767c848a01323a5c72"
+  },
+  "locId": "S.STEELSOUTHERN STEEL BERHAD2723, LORONG PERUSAHAAN 12,",
+  "Address1": "2723, LORONG PERUSAHAAN 12,",
+  "Name": "SOUTHERN STEEL BERHAD",
+  "ShipConCode": "S.STEEL",
+  "lat": "5.34464353041749",
+  "lng": "100.40714845487284",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451d78e7c848a01323a6e37"
+  },
+  "locId": "INFINITY",
+  "Address1": "",
+  "Name": "INFINITY PRAI DEPO",
+  "ShipConCode": "INFINITY",
+  "lat": "5.383435928677099",
+  "lng": "100.37399639526377",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "6451d8537c848a01323add04"
+  },
+  "locId": "SOON3SOON SOON OILMILLS SDN BHD2448 LORONG PERUSAHAAN 2",
+  "Address1": "2448 LORONG PERUSAHAAN 2",
+  "Name": "SOON SOON OILMILLS SDN BHD",
+  "ShipConCode": "SOON3",
+  "lat": "5.3697542",
+  "lng": "100.3843345",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451d9187c848a01323b4179"
+  },
+  "locId": "PSS",
+  "Address1": "LOT 368, LORONG PERUSAHAAN SG LOKAN 5,",
+  "Name": "PSS DEPOT SDN BHD",
+  "ShipConCode": "PSS",
+  "lat": "5.173737124640584",
+  "lng": "100.49290895462038",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "6451da1f7c848a01323bd931"
+  },
+  "locId": "MS",
+  "Address1": "SG LOKAN BUTTERWORTH",
+  "Name": "MUTUAL SPACE DEPO",
+  "ShipConCode": "MS",
+  "lat": "5.435438530926628",
+  "lng": "100.41002946282292",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "6451dd217c848a01323d88fa"
+  },
+  "locId": "NPKMALAYSIAN NPK FERTILIZER SDN BHDP.O BOX 24 BATU 2,JALAN JENIANG",
+  "Address1": "P.O BOX 24 BATU 2,JALAN JENIANG",
+  "Name": "MALAYSIAN NPK FERTILIZER SDN BHD",
+  "ShipConCode": "NPK",
+  "lat": "5.834557843524306",
+  "lng": "100.49521621082383",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451ddfe7c848a01323e0034"
+  },
+  "locId": "KAMENKAMEN STEEL INDUSTRIES SDN BHDNO. 873 MK 13, JALAN PERUSAHAAN BUKIT MINYAK 1,",
+  "Address1": "NO. 873 MK 13, JALAN PERUSAHAAN BUKIT MINYAK 1,",
+  "Name": "KAMEN STEEL INDUSTRIES SDN BHD",
+  "ShipConCode": "KAMEN",
+  "lat": "5.302657853003276",
+  "lng": "100.45225736704114",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451def87c848a01323e92d2"
+  },
+  "locId": "XSD IPXSD INTERNATIONAL PAPER SDN BHDNO. 441, BANGUNAN  XSD INTERNATIONAL PAPER SDN BHD",
+  "Address1": "NO. 441, BANGUNAN  XSD INTERNATIONAL PAPER SDN BHD",
+  "Name": "XSD INTERNATIONAL PAPER SDN BHD",
+  "ShipConCode": "XSD IP",
+  "lat": "5.4931265",
+  "lng": "100.6142817",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451dfa97c848a01323efc73"
+  },
+  "locId": "NATIONG SNATIONGATE SOLUTION (M) SDN BHD2466 & 2511 TKT PERUSAHAAN PERAI 4",
+  "Address1": "2466 & 2511 TKT PERUSAHAAN PERAI 4",
+  "Name": "NATIONGATE SOLUTION (M) SDN BHD",
+  "ShipConCode": "NATIONG S",
+  "lat": "5.378838014180039",
+  "lng": "100.38631885489227",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451e0b77c848a01323f9e72"
+  },
+  "locId": "RISENRISEN SOLAR TECHNOLOGY SDN BHDNO.3, JALAN HI-TECH 14, ZONE INDUSTRI FASA 4,",
+  "Address1": "NO.3, JALAN HI-TECH 14, ZONE INDUSTRI FASA 4,",
+  "Name": "RISEN SOLAR TECHNOLOGY SDN BHD",
+  "ShipConCode": "RISEN",
+  "lat": "5.447927474318042",
+  "lng": "100.56428714730649",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451e3b47c848a01324188ce"
+  },
+  "locId": "SRMSRM INTEGRATION (M) SDN BHDPLOT 16, BAYAN LEPAS TECHNOPLEX IND ZONE PHASE 4,",
+  "Address1": "PLOT 16, BAYAN LEPAS TECHNOPLEX IND ZONE PHASE 4,",
+  "Name": "SRM INTEGRATION (M) SDN BHD",
+  "ShipConCode": "SRM",
+  "lat": "5.294960636887305",
+  "lng": "100.28941595794524",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6451e6ae7c848a013242dfb4"
+  },
+  "locId": "MATTELMATTEL MALAYSIA SDN BHDPLOT 206, PRAI FREE TRADE ZONE,",
+  "Address1": "PLOT 206, PRAI FREE TRADE ZONE,",
+  "Name": "MATTEL MALAYSIA SDN BHD",
+  "ShipConCode": "MATTEL",
+  "lat": "5.357234537540867",
+  "lng": "100.39006301420703",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6452193c7c848a01325cade0"
+  },
+  "locId": "TRANSOCEAN",
+  "Address1": "",
+  "Name": "TRANSOCEAN MAK MANDIN DEPOT",
+  "ShipConCode": "TRANSOCEAN",
+  "lat": "5.415553703611192",
+  "lng": "100.39658546447755",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "6452197f7c848a01325cd033"
+  },
+  "locId": "DEEDEE NOON CORPORATION SDN.BHD.LOT NO 2494 ,JALAN SUNGAI BAONG ,",
+  "Address1": "LOT NO 2494 ,JALAN SUNGAI BAONG ,",
+  "Name": "DEE NOON CORPORATION SDN.BHD.",
+  "ShipConCode": "DEE",
+  "lat": "5.219167021225592",
+  "lng": "100.5364090204239",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521ab97c848a01325d7b39"
+  },
+  "locId": "MSPMSM PRAI BHDFORMELY KNOWN AS MALAYAN SUGAR MANUFACTURING COMPANY S/B)",
+  "Address1": "FORMELY KNOWN AS MALAYAN SUGAR MANUFACTURING COMPANY S/B)",
+  "Name": "MSM PRAI BHD",
+  "ShipConCode": "MSP",
+  "lat": "5.390788701310584",
+  "lng": "100.3785824775696",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521ae07c848a01325d967e"
+  },
+  "locId": "FFM MAFFM MARKETING SDN.BHD.3063, JALAN PERUSAHAAN,",
+  "Address1": "3063, JALAN PERUSAHAAN,",
+  "Name": "FFM MARKETING SDN.BHD.",
+  "ShipConCode": "FFM MA",
+  "lat": "5.3663161336540925",
+  "lng": "100.39469718933107",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521b757c848a01325de805"
+  },
+  "locId": "CHENNFILIM ENTERPRISE SDN BHDLOT210, KAWASAN PERINDUSTRIAN BUKIT KAYU HITAM",
+  "Address1": "LOT210, KAWASAN PERINDUSTRIAN BUKIT KAYU HITAM",
+  "Name": "FILIM ENTERPRISE SDN BHD",
+  "ShipConCode": "CHENN",
+  "lat": "6.478665911764713",
+  "lng": "100.42455928431374",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521c317c848a01325e7109"
+  },
+  "locId": "MAX COAMAX COATINGS SDN BHD..NO 996,LORONG PERINDUSTRIAN BKT MINYAK 11",
+  "Address1": "NO 996,LORONG PERINDUSTRIAN BKT MINYAK 11",
+  "Name": "MAX COATINGS SDN BHD..",
+  "ShipConCode": "MAX COA",
+  "lat": "5.294376103027939",
+  "lng": "100.45632898807527",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521c527c848a01325e8868"
+  },
+  "locId": "NAMNAMYE FOOD INDUSTRIES SDN BHD 1PT.760, JALAN PERUSAHAAN 1,",
+  "Address1": "PT.760, JALAN PERUSAHAAN 1,",
+  "Name": "NAMYE FOOD INDUSTRIES SDN BHD 1",
+  "ShipConCode": "NAM",
+  "lat": "5.107192017240901",
+  "lng": "100.48989415168764",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521f177c848a01326058c5"
+  },
+  "locId": "AGRICOAGRICORE CS SDN. BHD.PLOT 122 PERINDUSTRIAN BUKIT MINYAK 2",
+  "Address1": "PLOT 122 PERINDUSTRIAN BUKIT MINYAK 2",
+  "Name": "AGRICORE CS SDN. BHD.",
+  "ShipConCode": "AGRICO",
+  "lat": "5.307730191396513",
+  "lng": "100.45890390872957",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64521fba7c848a013260cbe3"
+  },
+  "locId": "RAPIDRAPID GROWTH TECHNOLOGY SDN BHD.PLOT 170 & 170A JLN PERINDUSTRIAN BKT MINYAK",
+  "Address1": "PLOT 170 & 170A JLN PERINDUSTRIAN BKT MINYAK",
+  "Name": "RAPID GROWTH TECHNOLOGY SDN BHD.",
+  "ShipConCode": "RAPID",
+  "lat": "5.294530391304346",
+  "lng": "100.45019060869566",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645222447c848a013262979e"
+  },
+  "locId": "MATTELMATTEL EXTERNAL WAREHOUSEP17",
+  "Address1": "P17",
+  "Name": "MATTEL EXTERNAL WAREHOUSE",
+  "ShipConCode": "MATTEL",
+  "lat": "5.360820587426194",
+  "lng": "100.39867758750917",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645222ad7c848a013262d063"
+  },
+  "locId": "PK-FERTSYARIKAT UREA HANDLERS SDN BHDBULK CARGO TERMINAL",
+  "Address1": "BULK CARGO TERMINAL",
+  "Name": "SYARIKAT UREA HANDLERS SDN BHD",
+  "ShipConCode": "PK-FERT",
+  "lat": "5.365974564172075",
+  "lng": "100.38122713565828",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645222d97c848a013262ecc8"
+  },
+  "locId": "ASTAASTA CHEMICAL S/BNO 2036, LORONG PERUSAHAAN 2,",
+  "Address1": "NO 2036, LORONG PERUSAHAAN 2,",
+  "Name": "ASTA CHEMICAL S/B",
+  "ShipConCode": "ASTA",
+  "lat": "5.367693667813646",
+  "lng": "100.38362503051758",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645222f27c848a013262f7d5"
+  },
+  "locId": "SOON SOONSOON SOON OILLMILLS SDN BHDGATE 2,PRAI",
+  "Address1": "GATE 2,PRAI",
+  "Name": "SOON SOON OILLMILLS SDN BHD",
+  "ShipConCode": "SOON SOON",
+  "lat": "5.368108866666666",
+  "lng": "100.38411156666666",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645223457c848a01326319ec"
+  },
+  "locId": "AICELAICELLO MALAYSIA SDN BHD (NEW) PKG.PLOT 12 JALAN HI-TECH 13,",
+  "Address1": "PLOT 12 JALAN HI-TECH 13,",
+  "Name": "AICELLO MALAYSIA SDN BHD (NEW) PKG.",
+  "ShipConCode": "AICEL",
+  "lat": "5.4243960343500515",
+  "lng": "100.57441592216493",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645223ad7c848a01326350ca"
+  },
+  "locId": "WANGSAWANGSAGA INDUSTRIES SDN BHDPLOT 159, MK 13, JLN PERUSAHAAN BKT MINYAK 7",
+  "Address1": "PLOT 159, MK 13, JLN PERUSAHAAN BKT MINYAK 7",
+  "Name": "WANGSAGA INDUSTRIES SDN BHD",
+  "ShipConCode": "WANGSA",
+  "lat": "5.299146226531556",
+  "lng": "100.45652747154236",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6452240e7c848a01326383c9"
+  },
+  "locId": "CHEMICAKEN PRIMA COSMECEUTIVALS SDN BHDPLOT 22, LORONG PERUSAHAAN MAJU 2,",
+  "Address1": "PLOT 22, LORONG PERUSAHAAN MAJU 2,",
+  "Name": "KEN PRIMA COSMECEUTIVALS SDN BHD",
+  "ShipConCode": "CHEMICA",
+  "lat": "5.349743663787741",
+  "lng": "100.41773200035097",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6452247c7c848a013263cae1"
+  },
+  "locId": "OBH TRADINOBH TRADING SDN BHD4253,JALAN ONG YI HOW",
+  "Address1": "4253,JALAN ONG YI HOW",
+  "Name": "OBH TRADING SDN BHD",
+  "ShipConCode": "OBH TRADIN",
+  "lat": "5.432492303757551",
+  "lng": "100.39012134075165",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645224bc7c848a013263ef0e"
+  },
+  "locId": "TOYOTYRTOYO TYRES SALES & MARKETING (M) SDN BHDPT 23101,JALAN TEMBAGA KUNING,",
+  "Address1": "PT 23101,JALAN TEMBAGA KUNING,",
+  "Name": "TOYO TYRES SALES & MARKETING (M) SDN BHD",
+  "ShipConCode": "TOYOTYR",
+  "lat": "4.86053302656852",
+  "lng": "100.69739520549776",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6452252f7c848a0132642c96"
+  },
+  "locId": "LATEXXLATEXX MANUFACTURING SDN BHDLOT 18374,JALAN PERUSAHAAN 3",
+  "Address1": "LOT 18374,JALAN PERUSAHAAN 3",
+  "Name": "LATEXX MANUFACTURING SDN BHD",
+  "ShipConCode": "LATEXX",
+  "lat": "4.906675190320265",
+  "lng": "100.70750713348389",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645228137c848a013266281c"
+  },
+  "locId": "PERAPERAK DUCK FOOD INDUSTRIES SDN BHD3525, KAMPUNG NIBONG TEMERLOH",
+  "Address1": "3525, KAMPUNG NIBONG TEMERLOH",
+  "Name": "PERAK DUCK FOOD INDUSTRIES SDN BHD",
+  "ShipConCode": "PERA",
+  "lat": "4.64189773737014",
+  "lng": "100.69159090518951",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645228d47c848a01326695f2"
+  },
+  "locId": "WEST",
+  "Address1": "",
+  "Name": "WEST PORT ODD 5",
+  "ShipConCode": "WEST",
+  "lat": "2.9367081643377526",
+  "lng": "101.29834284713505",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "6452ff337c848a01329947f5"
+  },
+  "locId": "CSSBCHUAN SIN SDN BHD (PKG)LOT 898, JALAN RESERVOIR,",
+  "Address1": "LOT 898, JALAN RESERVOIR,",
+  "Name": "CHUAN SIN SDN BHD (PKG)",
+  "ShipConCode": "CSSB",
+  "lat": "4.820066206581733",
+  "lng": "100.75298666954042",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6453006b7c848a013299df74"
+  },
+  "locId": "EVGEVERGREEN PAPER (M) SDN BHD (NEW FACTORY)5100A, LORONG MAK MANDIN 5,",
+  "Address1": "5100A, LORONG MAK MANDIN 5,",
+  "Name": "EVERGREEN PAPER (M) SDN BHD (NEW FACTORY)",
+  "ShipConCode": "EVG",
+  "lat": "5.4190155505930395",
+  "lng": "100.39278209209444",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645300c17c848a01329a1109"
+  },
+  "locId": "FENGFENG JIN TEXTILE SDN BHDLOT 3806, JALAN PERUSAHAAN 1",
+  "Address1": "LOT 3806, JALAN PERUSAHAAN 1",
+  "Name": "FENG JIN TEXTILE SDN BHD",
+  "ShipConCode": "FENG",
+  "lat": "4.904914698223064",
+  "lng": "100.71696460247041",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645300f57c848a01329a2a4a"
+  },
+  "locId": "POS PK",
+  "Address1": "",
+  "Name": "POS LOGISTICS BERHAD - PORT KLANG",
+  "ShipConCode": "POS PK",
+  "lat": "3.0359503542371074",
+  "lng": "101.37555420398712",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "645849ed7c848a0132573ed4"
+  },
+  "locId": "SSTEELSOUTHERN STEEL SDN BHD2723 LORONG PERUSAHAAN 12",
+  "Address1": "2723 LORONG PERUSAHAAN 12",
+  "Name": "SOUTHERN STEEL SDN BHD",
+  "ShipConCode": "SSTEEL",
+  "lat": "5.346061008301116",
+  "lng": "100.39964318275452",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645da05c7c848a0132a5b4c6"
+  },
+  "locId": "TYCTYCO SERVICES MALAYSIA SDN BHD.735, LORONG PERINDUSTRIAN BUKIT MINYAK 7,",
+  "Address1": "735, LORONG PERINDUSTRIAN BUKIT MINYAK 7,",
+  "Name": "TYCO SERVICES MALAYSIA SDN BHD.",
+  "ShipConCode": "TYC",
+  "lat": "5.311327777777779",
+  "lng": "100.45129738888892",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "645da0bc7c848a0132a5e6f6"
+  },
+  "locId": "TAIBLETAIKO BLEACHINGEARTH SDN BHDLOT 169 PARIT BUNTAR INDUSTRIAL ESTATE",
+  "Address1": "LOT 169 PARIT BUNTAR INDUSTRIAL ESTATE",
+  "Name": "TAIKO BLEACHINGEARTH SDN BHD",
+  "ShipConCode": "TAIBLE",
+  "lat": "5.094829242424242",
+  "lng": "100.4921929090909",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646742797c848a0132353cb9"
+  },
+  "locId": "ALAGAPAALAGAPPA FLOUR MILLS SDN BHD(BARU)1416 JALAN PERMATANG BATU",
+  "Address1": "1416 JALAN PERMATANG BATU",
+  "Name": "ALAGAPPA FLOUR MILLS SDN BHD(BARU)",
+  "ShipConCode": "ALAGAPA",
+  "lat": "5.363758945657247",
+  "lng": "100.42827274382083",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646c25a762fabb95fff85067"
+  },
+  "locId": "51844BEANSENG NT SDN. BHD.NO. 4, JALAN INDUSTRI 2,",
+  "Address1": "NO. 4, JALAN INDUSTRI 2,",
+  "Name": "BEANSENG NT SDN. BHD.",
+  "ShipConCode": "51844",
+  "lat": "5.173737124640584",
+  "lng": "100.49290895462038",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d709562fabb95ff93b769"
+  },
+  "locId": "SOONFEEDMISOON SOON FEEDMILLS SDN BHD2425,LORONG PERUSAHAAN DUA",
+  "Address1": "2425,LORONG PERUSAHAAN DUA",
+  "Name": "SOON SOON FEEDMILLS SDN BHD",
+  "ShipConCode": "SOONFEEDMI",
+  "lat": "5.36969315203908",
+  "lng": "100.38401126861572",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d8cfb62fabb95ffaa24e9"
+  },
+  "locId": "PLSBPROFESSIONAL LATEX P3LOT 14202, JALAN PERUSAHAAN KAMUNTING,",
+  "Address1": "LOT 14202, JALAN PERUSAHAAN KAMUNTING,",
+  "Name": "PROFESSIONAL LATEX P3",
+  "ShipConCode": "PLSB",
+  "lat": "4.878113015511892",
+  "lng": "100.70500195026399",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d8e2f62fabb95ffaac51a"
+  },
+  "locId": "S.S.PIPESOUTHERN STEEL PIPE SDN BHD4457 MUKIM 15, JALAN CHAIN FERRY",
+  "Address1": "4457 MUKIM 15, JALAN CHAIN FERRY",
+  "Name": "SOUTHERN STEEL PIPE SDN BHD",
+  "ShipConCode": "S.S.PIPE",
+  "lat": "5.4004862",
+  "lng": "100.3827466",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d8fde62fabb95ffac72b5"
+  },
+  "locId": "KAOOLEOKAO OLEOCHEMICAL (M) SDN BHD2693 LORONG PERUSAHAAN SATU,",
+  "Address1": "2693 LORONG PERUSAHAAN SATU,",
+  "Name": "KAO OLEOCHEMICAL (M) SDN BHD",
+  "ShipConCode": "KAOOLEO",
+  "lat": "5.371246141492357",
+  "lng": "100.39629042148592",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d901762fabb95ffac9f8e"
+  },
+  "locId": "ASIA PLYASIA PLYWOOD CO.SDN BHDPLOT 35-38,KAWASAN PERUSAHAAN BUKIT SELAMBAU,",
+  "Address1": "PLOT 35-38,KAWASAN PERUSAHAAN BUKIT SELAMBAU,",
+  "Name": "ASIA PLYWOOD CO.SDN BHD",
+  "ShipConCode": "ASIA PLY",
+  "lat": "5.697281299999999",
+  "lng": "100.6193384",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d913d62fabb95ffadc66c"
+  },
+  "locId": "HANTHANTONG METAL COMPONENT (PG) SDN BHDLOT 83 & 84 ,JLN PKNK 1/8,",
+  "Address1": "LOT 83 & 84 ,JLN PKNK 1/8,",
+  "Name": "HANTONG METAL COMPONENT (PG) SDN BHD",
+  "ShipConCode": "HANT",
+  "lat": "5.6531687",
+  "lng": "100.5354645",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d919762fabb95ffae07f6"
+  },
+  "locId": "CHIATCHIAT HIN ENVELOPE MANUFACTURER SDN BHDLOT NO.235 LORONG PERUSAHAAN 8",
+  "Address1": "LOT NO.235 LORONG PERUSAHAAN 8",
+  "Name": "CHIAT HIN ENVELOPE MANUFACTURER SDN BHD",
+  "ShipConCode": "CHIAT",
+  "lat": "5.3576627",
+  "lng": "100.4021402",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d926562fabb95ffaec87c"
+  },
+  "locId": "TSLTSL PLASTIC MANUFACTURING SDN BHDLOT 910 & 911 LORONG MAKMUR 3/2,",
+  "Address1": "LOT 910 & 911 LORONG MAKMUR 3/2,",
+  "Name": "TSL PLASTIC MANUFACTURING SDN BHD",
+  "ShipConCode": "TSL",
+  "lat": "5.4397166",
+  "lng": "100.5477912",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d92fb62fabb95ffaf364b"
+  },
+  "locId": "NGATE",
+  "Address1": "LOT 21687, JALAN PELABUHAN KLANG UTARA,",
+  "Name": "NORTHERN GATEWAY DEPOT SDN BHD",
+  "ShipConCode": "NGATE",
+  "lat": "3.014399",
+  "lng": "101.3717142",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "646d95a162fabb95ffb24538"
+  },
+  "locId": "TORAYTORAY PLASTICS (W7)C/O: SWIFT INTEGRATED LOGISTICS SDN BHD - WAREHOUSE",
+  "Address1": "C/O: SWIFT INTEGRATED LOGISTICS SDN BHD - WAREHOUSE",
+  "Name": "TORAY PLASTICS (W7)",
+  "ShipConCode": "TORAY",
+  "lat": "5.431996428640706",
+  "lng": "100.40928304195404",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646d964b62fabb95ffb30d52"
+  },
+  "locId": "GENTLEBEANSENG NT SDN BHD4, JALAN INDUSTRI 2,",
+  "Address1": "4, JALAN INDUSTRI 2,",
+  "Name": "BEANSENG NT SDN BHD",
+  "ShipConCode": "GENTLE",
+  "lat": "5.439617189189191",
+  "lng": "100.408242945946",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da3f162fabb95ffbc2b5b"
+  },
+  "locId": "YENHERLIANG TEIK TRADING CO SDN BHDNO.769, JLN PERINDUSTRIAN BUKIT MINYAK 7,",
+  "Address1": "NO.769, JLN PERINDUSTRIAN BUKIT MINYAK 7,",
+  "Name": "LIANG TEIK TRADING CO SDN BHD",
+  "ShipConCode": "YENHER",
+  "lat": "5.299926999999999",
+  "lng": "100.4575259",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da52862fabb95ffbcaf20"
+  },
+  "locId": "ATLANTIC BATLANTIC BLUE SDN BHD (CHUPPING)PHOTOVOLTAIC PLANT (LSSPV)- CHUPING",
+  "Address1": "PHOTOVOLTAIC PLANT (LSSPV)- CHUPING",
+  "Name": "ATLANTIC BLUE SDN BHD (CHUPPING)",
+  "ShipConCode": "ATLANTIC B",
+  "lat": "6.481983",
+  "lng": "100.29815",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da73b62fabb95ffbe0c34"
+  },
+  "locId": "SOONFEEDSOON SOON FEEDMILL SDN BHD.GATE 2, PRAI",
+  "Address1": "GATE 2, PRAI",
+  "Name": "SOON SOON FEEDMILL SDN BHD.",
+  "ShipConCode": "SOONFEED",
+  "lat": "5.3447776",
+  "lng": "100.4071134",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da79d62fabb95ffbe4005"
+  },
+  "locId": "UMFUNITED MALAYAN FLOUR (1996) SDN BHD4826, JALAN PERMATANG PAUH,",
+  "Address1": "4826, JALAN PERMATANG PAUH,",
+  "Name": "UNITED MALAYAN FLOUR (1996) SDN BHD",
+  "ShipConCode": "UMF",
+  "lat": "5.413333428571429",
+  "lng": "100.39625364285713",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da7c062fabb95ffbe4dd3"
+  },
+  "locId": "ROD",
+  "Address1": "",
+  "Name": "MMF NEW YARD - MULTIMODAL",
+  "ShipConCode": "ROD",
+  "lat": "5.439696285714286",
+  "lng": "100.4082715",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "646da85d62fabb95ffbeecfe"
+  },
+  "locId": "BSTOREHACK (M) SDN BHD1207 LENGKOK PERINDUSTRIAN BUKIT MINYAK 1",
+  "Address1": "1207 LENGKOK PERINDUSTRIAN BUKIT MINYAK 1",
+  "Name": "HACK (M) SDN BHD",
+  "ShipConCode": "BSTORE",
+  "lat": "5.298542753246185",
+  "lng": "100.44592201709747",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da87d62fabb95ffbf14d9"
+  },
+  "locId": "HSCOMPWF FEEDS SDN BHDPLOT 31, LORONG PERINDUSTRIAN BUKIT MINYAK 9,",
+  "Address1": "PLOT 31, LORONG PERINDUSTRIAN BUKIT MINYAK 9,",
+  "Name": "PWF FEEDS SDN BHD",
+  "ShipConCode": "HSCOM",
+  "lat": "5.3078441",
+  "lng": "100.4476623",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646da97d62fabb95ffbfe0e4"
+  },
+  "locId": "ROBERTC/O:CITY ZONE EXPRESS SDN BHD(BKT TGH)NO 118 JALAN PERUSAHAAN BUKIT TENGAH,",
+  "Address1": "NO 118 JALAN PERUSAHAAN BUKIT TENGAH,",
+  "Name": "C/O:CITY ZONE EXPRESS SDN BHD(BKT TGH)",
+  "ShipConCode": "ROBERT",
+  "lat": "5.333697",
+  "lng": "100.4341136",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dab2762fabb95ffc165f3"
+  },
+  "locId": "MSPMSM PRAI BHDFORMELY KNOWN AS MALAYAN SUGAR MANUFACTURING COMPA",
+  "Address1": "FORMELY KNOWN AS MALAYAN SUGAR MANUFACTURING COMPA",
+  "Name": "MSM PRAI BHD",
+  "ShipConCode": "MSP",
+  "lat": "5.3908135",
+  "lng": "100.3785523",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dab8662fabb95ffc1a99c"
+  },
+  "locId": "CHEEWCHEE WAH CORPORATION BERHAD6428, LORONG MAK MANDIN 3",
+  "Address1": "6428, LORONG MAK MANDIN 3",
+  "Name": "CHEE WAH CORPORATION BERHAD",
+  "ShipConCode": "CHEEW",
+  "lat": "5.416541899999999",
+  "lng": "100.3875961",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dac6162fabb95ffc222d7"
+  },
+  "locId": "GRAINLIANG TEIK TRADING CO SDN BHDNO 769 JALAN PERINDUSTRIAN BUKIT MINYAK 7",
+  "Address1": "NO 769 JALAN PERINDUSTRIAN BUKIT MINYAK 7",
+  "Name": "LIANG TEIK TRADING CO SDN BHD",
+  "ShipConCode": "GRAIN",
+  "lat": "5.299926999999999",
+  "lng": "100.4575259",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dad5c62fabb95ffc31748"
+  },
+  "locId": "ALPHAINALPHA INDUSTRIES SDN BHDPERUSAHAAN 1, LOT 2782, MUKIM 1,",
+  "Address1": "PERUSAHAAN 1, LOT 2782, MUKIM 1,",
+  "Name": "ALPHA INDUSTRIES SDN BHD",
+  "ShipConCode": "ALPHAIN",
+  "lat": "5.378312990638462",
+  "lng": "100.38761079311371",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646daea562fabb95ffc406cf"
+  },
+  "locId": "APTEKAFONG YEN - JURU HEIGHTPLOT 861, JALAN BUKIT TAMBUN JURU,",
+  "Address1": "PLOT 861, JALAN BUKIT TAMBUN JURU,",
+  "Name": "FONG YEN - JURU HEIGHT",
+  "ShipConCode": "APTEKA",
+  "lat": "5.2961122",
+  "lng": "100.420136",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646daec562fabb95ffc43135"
+  },
+  "locId": "PWF",
+  "Address1": "",
+  "Name": "PWF FEEDS SDN BHD",
+  "ShipConCode": "PWF",
+  "lat": "5.307864812500002",
+  "lng": "100.448335",
+  "locType": "PORT"
+},
+{
+  "_id": {
+    "$oid": "646db48062fabb95ffc95a4c"
+  },
+  "locId": "INDOMAJURU WAREHOUSELOT NO.6690, MUKIM 13, JURU",
+  "Address1": "LOT NO.6690, MUKIM 13, JURU",
+  "Name": "JURU WAREHOUSE",
+  "ShipConCode": "INDOMA",
+  "lat": "5.304467",
+  "lng": "100.433383",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db4d362fabb95ffc9a410"
+  },
+  "locId": "MSD",
+  "Address1": "SG LOKAN BUTTERWORTH",
+  "Name": "MUTUAL SPACE DEPO",
+  "ShipConCode": "MSD",
+  "lat": "5.437421539381819",
+  "lng": "100.41007697582246",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "646db4e862fabb95ffc9ba0a"
+  },
+  "locId": "REXERREXER SDN BHD21 JALAN INDUSTRI CHEROK TOKUN 3",
+  "Address1": "21 JALAN INDUSTRI CHEROK TOKUN 3",
+  "Name": "REXER SDN BHD",
+  "ShipConCode": "REXER",
+  "lat": "5.337408",
+  "lng": "100.4854941",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db64662fabb95ffcb53d5"
+  },
+  "locId": "FIBRESFIBRE STAR (M) SDN BHD3843, MK 11, LUAR DESA JAWI,",
+  "Address1": "3843, MK 11, LUAR DESA JAWI,",
+  "Name": "FIBRE STAR (M) SDN BHD",
+  "ShipConCode": "FIBRES",
+  "lat": "5.199209825006544",
+  "lng": "100.48885345458986",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db67962fabb95ffcba6bd"
+  },
+  "locId": "KEN PRIMAKEN PRIMA COSMECEUTICALS S/BPLOT 22, LORONG PERUSAHAAN MAJU 2,",
+  "Address1": "PLOT 22, LORONG PERUSAHAAN MAJU 2,",
+  "Name": "KEN PRIMA COSMECEUTICALS S/B",
+  "ShipConCode": "KEN PRIMA",
+  "lat": "5.413183",
+  "lng": "100.360517",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db7c362fabb95ffcd391f"
+  },
+  "locId": "DEEDEE NOON CORPORATION SDN BHD (FAC 2)LOT NO 2974 ,JALAN SUNGAI BAONG ,",
+  "Address1": "LOT NO 2974 ,JALAN SUNGAI BAONG ,",
+  "Name": "DEE NOON CORPORATION SDN BHD (FAC 2)",
+  "ShipConCode": "DEE",
+  "lat": "5.218864083787609",
+  "lng": "100.53655385971071",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db98862fabb95ffcf0e41"
+  },
+  "locId": "51844TIONG NAM LOGISTICS SOLUTIONS SDN. BHD.C/O TRANSOCEAN DISTRIBUTION HUB SDN BHD",
+  "Address1": "C/O TRANSOCEAN DISTRIBUTION HUB SDN BHD",
+  "Name": "TIONG NAM LOGISTICS SOLUTIONS SDN. BHD.",
+  "ShipConCode": "51844",
+  "lat": "5.430474737328371",
+  "lng": "100.41003942489625",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646db9c762fabb95ffcf3164"
+  },
+  "locId": "WANSENGWAN SHENG PLASTIC (M) SDN BHDPLOT 632, JALAN PERKASA 5 ,",
+  "Address1": "PLOT 632, JALAN PERKASA 5 ,",
+  "Name": "WAN SHENG PLASTIC (M) SDN BHD",
+  "ShipConCode": "WANSENG",
+  "lat": "5.6878429",
+  "lng": "100.6160388",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dbaf462fabb95ffd0058d"
+  },
+  "locId": "INFINIONC/O BASF MALAYSIA S/BLOT 7 JALAN HI-TECH KEDAH DARUL AMAN",
+  "Address1": "LOT 7 JALAN HI-TECH KEDAH DARUL AMAN",
+  "Name": "C/O BASF MALAYSIA S/B",
+  "ShipConCode": "INFINION",
+  "lat": "5.4309372499999995",
+  "lng": "100.59435825",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dbba062fabb95ffd0de99"
+  },
+  "locId": "51906KNAUF SDN BHDPLOT NO. 28-33, JALAN PERUSAHAAN SATU,",
+  "Address1": "PLOT NO. 28-33, JALAN PERUSAHAAN SATU,",
+  "Name": "KNAUF SDN BHD",
+  "ShipConCode": "51906",
+  "lat": "5.10085425925926",
+  "lng": "100.4907040555556",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "646dd25262fabb95fff26e03"
+  },
+  "locId": "TORAYTORAY PLASTICS (W7)C/O: SWIFT WAREHOUSE",
+  "Address1": "C/O: SWIFT WAREHOUSE",
+  "Name": "TORAY PLASTICS (W7)",
+  "ShipConCode": "TORAY",
+  "lat": "5.432096886879453",
+  "lng": "100.4093635082245",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64769f0062fabb95ff098f8b"
+  },
+  "locId": "TAGFASTTAG FASTENERS SDN BHDNO.1081, JALAN AMAN 2 ,",
+  "Address1": "NO.1081, JALAN AMAN 2 ,",
+  "Name": "TAG FASTENERS SDN BHD",
+  "ShipConCode": "TAGFAST",
+  "lat": "5.450000876573406",
+  "lng": "100.54261565208436",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64769f5e62fabb95ff09cbef"
+  },
+  "locId": "CTAMCONTINENTAL TYRE AS MALAYSIA SDN BHDNO 1,JALAN TUNKU ABDUL RAHMAN,",
+  "Address1": "NO 1,JALAN TUNKU ABDUL RAHMAN,",
+  "Name": "CONTINENTAL TYRE AS MALAYSIA SDN BHD",
+  "ShipConCode": "CTAM",
+  "lat": "6.121176515986215",
+  "lng": "100.34760832786561",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64769faa62fabb95ff09f865"
+  },
+  "locId": "ODD",
+  "Address1": "",
+  "Name": "ODD 11 , WEST PORT",
+  "ShipConCode": "ODD",
+  "lat": "2.931400240567357",
+  "lng": "101.2992560863495",
+  "locType": "CONTAINER_YARD"
+},
+{
+  "_id": {
+    "$oid": "64769fce62fabb95ff0a127c"
+  },
+  "locId": "MALAYSIANNMALAYSIAN NPK FERTILIZER SDN BHDBATU 2, JALAN JENIAN,",
+  "Address1": "BATU 2, JALAN JENIAN,",
+  "Name": "MALAYSIAN NPK FERTILIZER SDN BHD",
+  "ShipConCode": "MALAYSIANN",
+  "lat": "5.834436302293964",
+  "lng": "100.49452900886537",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64769ffa62fabb95ff0a2cbf"
+  },
+  "locId": "INDOSPICEJURU WAREHOUSELOT NO.6690, MUKIM 13,",
+  "Address1": "LOT NO.6690, MUKIM 13,",
+  "Name": "JURU WAREHOUSE",
+  "ShipConCode": "INDOSPICE",
+  "lat": "5.3045797007850375",
+  "lng": "100.43182969093324",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6476a02262fabb95ff0a4262"
+  },
+  "locId": "JETTYJETTY KUALA KEDAHKUALA KEDAH.....",
+  "Address1": "KUALA KEDAH.....",
+  "Name": "JETTY KUALA KEDAH",
+  "ShipConCode": "JETTY",
+  "lat": "6.106522658140313",
+  "lng": "100.29135704040529",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6476a04f62fabb95ff0a565e"
+  },
+  "locId": "NORTHWEST",
+  "Address1": "28, JALAN SULTAN MOHAMED 5,",
+  "Name": "NORTH WEST DEPOT SDN BHD",
+  "ShipConCode": "NORTHWEST",
+  "lat": "3.040825719699915",
+  "lng": "101.37793064117433",
+  "locType": "CONTAINER_YARD"
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6479586e62fabb95ff701e13"
+  },
+  "locId": "DA00008SUPPORTIVE TECHNOLOGY SDN BHD1,2,7&8 JALAN PKNK 3\r",
+  "Address1": "1,2,7&8 JALAN PKNK 3\r",
+  "Name": "SUPPORTIVE TECHNOLOGY SDN BHD",
+  "ShipConCode": "DA00008",
+  "lat": "5.645303289878407",
+  "lng": "100.53052425384521",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64796da762fabb95ff826fbe"
+  },
+  "locId": "DD00306SCHENKER LOGISTICS (M) SDN BHD # PLC5PLOT 74, LORONG PERUSAHAAN UTAMA 4",
+  "Address1": "PLOT 74, LORONG PERUSAHAAN UTAMA 4",
+  "Name": "SCHENKER LOGISTICS (M) SDN BHD # PLC5",
+  "ShipConCode": "DD00306",
+  "lat": "5.337507607453185",
+  "lng": "100.44314861297609",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "64796dbd62fabb95ff827bb3"
+  },
+  "locId": "DK00321MITSUI SOKO (M)  SDN BHD #PLOT 81, JURUPLOT 81,JALAN PERUSAHAAN",
+  "Address1": "PLOT 81,JALAN PERUSAHAAN",
+  "Name": "MITSUI SOKO (M)  SDN BHD #PLOT 81, JURU",
+  "ShipConCode": "DK00321",
+  "lat": "5.332683",
+  "lng": "100.434183",
+  "locType": "ShipCon"
+},
+{
+  "_id": {
+    "$oid": "6479af7662fabb95ffb20a85"
+  },
+  "locId": "DU00136UNITED BASE METALS SDN BHDLOT 8068, JALAN BEDONG",
+  "Address1": "LOT 8068, JALAN BEDONG",
+  "Name": "UNITED BASE METALS SDN BHD",
+  "ShipConCode": "DU00136",
+  "lat": "5.7796363",
+  "lng": "100.4959335",
+  "locType": "ShipCon"
+}]

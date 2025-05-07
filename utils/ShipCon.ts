@@ -1,7 +1,7 @@
 import { groupBy } from "lodash";
 import { Opts, ShipperConDelivery, ShipperConsignee } from "../types";
 import { DEFAULT_IF_REQUIRED_NOT_FOUND } from "../constants";
-import { cloneJsonDataFromSheet, extractPostcode, getCityFromPostcode, getFullAddress, getStateFromPostcode } from "./xlsxToCsv";
+import { cloneJsonDataFromSheet, extractPostcode, getCityFromPostcode, getFullAddress, getLatLong, getStateFromPostcode } from "./xlsxToCsv";
 
 export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAddresses: ShipperConDelivery[], opts: Opts) => {
   const groupedAddresses = groupBy(shipConAddresses, 'ShipConCode');
@@ -30,8 +30,7 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
             "postCode": postcode || "",
             "areaCode": address["AreaCode"] || DEFAULT_IF_REQUIRED_NOT_FOUND,
             "zone": groupedAreaCodes[address['AreaCode']]?.[0]?.AreaZone || DEFAULT_IF_REQUIRED_NOT_FOUND,
-            "location.type": "",
-            "location.coordinates": "",
+            ...getLatLong(opts.buCode, company.Code),
             "phone": address["Tel"] || "",
             "fax": address["Fax"] || "",
             "tags": parseInt(address['IsDefault']) ? ["isDefault"]: [],
