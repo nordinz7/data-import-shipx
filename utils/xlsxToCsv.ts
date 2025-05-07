@@ -4,7 +4,7 @@ import * as path from 'path';
 import { ADDRESS_COLUMNS, DEFAULT_IF_REQUIRED_NOT_FOUND } from '../constants';
 import { AdmCustomer, Opts } from '../types';
 import convertToArea from './AdmArea';
-import { pick } from 'lodash';
+import { pick, uniqBy } from 'lodash';
 import { convertToShipCon } from './ShipCon';
 import { Parser } from 'json2csv';
 
@@ -197,7 +197,7 @@ function extractFromSheet(sheetName: string, opts: Opts) {
         }
         case 'AdmArea':{
             const areaCodes = convertToArea(cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]));
-            const zones = areaCodes.map((areaCode)=> ({...pick(areaCode, ['code', 'name', 'description', 'sorting', 'status']), code: areaCode.zone }));
+            const zones = uniqBy(areaCodes.map((areaCode)=> ({ code: areaCode.zone, name: areaCode.zone, description: areaCode.zone })), 'code');
             opts.generateOutput('AreaCodes', Json2Csv(areaCodes));
             opts.generateOutput('AreaZones', Json2Csv(zones));
             break;
