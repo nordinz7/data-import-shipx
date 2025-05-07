@@ -6,6 +6,7 @@ import { AdmCustomer, Opts } from '../types';
 import convertToArea from './AdmArea';
 import { pick } from 'lodash';
 import { convertToShipCon } from './ShipCon';
+import { Parser } from 'json2csv';
 
 // Helper: Extract postcode (5 digits) from address string
 export function extractPostcode(address: string): string | null {
@@ -210,7 +211,7 @@ function extractFromSheet(sheetName: string, opts: Opts) {
             const shipConCompanies = cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]);
             const shipConAddresses = cloneJsonDataFromSheet(opts.workbook.Sheets['ShipperConDelivery']);
             const data = convertToShipCon(shipConCompanies, shipConAddresses, opts);
-            opts.generateOutput(sheetName, Json2Csv(data));
+            opts.generateOutput(sheetName, new Parser().parse(data));
         }
         // default:
         //     const content=  XLSX.utils.sheet_to_csv(opts.workbook.Sheets[sheetName]);

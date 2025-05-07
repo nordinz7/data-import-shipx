@@ -8,8 +8,8 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
   const groupedAreaCodes = groupBy(cloneJsonDataFromSheet(opts.workbook.Sheets['AdmArea']), 'AreaCode');
 
   return shipConCompanies.map((company) => {
-    const addresses = groupedAddresses[company.Code] || [];
-    const addressDetails = addresses.map((address) => {
+    const foundAddresses = groupedAddresses[company.Code] || [];
+    const addresses = foundAddresses.map((address) => {
       const fulladdr = getFullAddress(address, ['Address1', 'Address2', 'Address3', 'Address4']);
       const postcode = extractPostcode(fulladdr);
       const city = getCityFromPostcode(postcode!);
@@ -17,39 +17,42 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
 
             return {
             // --- Address ---
-            "address.name": address['Name']|| DEFAULT_IF_REQUIRED_NOT_FOUND,
-            "address.type": ['DELIVERY'],
-            "address.countryAlpha3": "MYS",
-            "address.address1": address["Address1"] || "",
-            "address.address2": address["Address2"] || "",
-            "address.address3": address["Address3"] || "",
-            "address.address4": address["Address4"] || "",
-            "address.city": city || address["City"] || "",
-            "address.state": state || address["State"] || "",
-            "address.district": city || address["City"] || "",
-            "address.postCode": postcode || "",
-            "address.areaCode": address["AreaCode"] || DEFAULT_IF_REQUIRED_NOT_FOUND,
-            "address.zone": groupedAreaCodes[address['AreaCode']]?.[0]?.AreaZone || DEFAULT_IF_REQUIRED_NOT_FOUND,
-            "address.location.type": "",
-            "address.location.coordinates": "",
-            "address.phone": address["Tel"] || "",
-            "address.fax": address["Fax"] || "",
-            "address.tags": parseInt(address['IsDefault']) ? JSON.stringify(["isDefault"]): [],
-            "address.status": "activated",
-            "address.uuid": "",
-            "address.zzz": "",
-            // --- Contact ---
-            "contact.name": address["Contact"] || "",
-            "contact.email": "",
-            "contact.phone": "",
-            "contact.title": "",
-            "contact.designation": "",
-            "contact.notes": "",
-            "contact.status": "activated",
-            "contact.uuid": "",
-            "contact.zzz": "",
+            "name": address['Name']|| DEFAULT_IF_REQUIRED_NOT_FOUND,
+            "type": ['DELIVERY'],
+            "countryAlpha3": "MYS",
+            "address1": address["Address1"] || "",
+            "address2": address["Address2"] || "",
+            "address3": address["Address3"] || "",
+            "address4": address["Address4"] || "",
+            "city": city || address["City"] || "",
+            "state": state || address["State"] || "",
+            "district": city || address["City"] || "",
+            "postCode": postcode || "",
+            "areaCode": address["AreaCode"] || DEFAULT_IF_REQUIRED_NOT_FOUND,
+            "zone": groupedAreaCodes[address['AreaCode']]?.[0]?.AreaZone || DEFAULT_IF_REQUIRED_NOT_FOUND,
+            "location.type": "",
+            "location.coordinates": "",
+            "phone": address["Tel"] || "",
+            "fax": address["Fax"] || "",
+            "tags": parseInt(address['IsDefault']) ? JSON.stringify(["isDefault"]): [],
+            "status": "activated",
+            "uuid": "",
+            "zzz": "",
           }
     })
+
+    const contacts = foundAddresses.map((address) => ({
+            // --- Contact ---
+            "name": address["Contact"] || "",
+            "email": "",
+            "phone": "",
+            "title": "",
+            "designation": "",
+            "notes": "",
+            "status": "activated",
+            "uuid": "",
+            "zzz": "",
+    }))
 
     return {
           // --- General Info ---
@@ -79,7 +82,8 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
           "registration": "",
           // --- UUID ---
           "uuid": "",
-          addresses: addressDetails,
+          addresses,
+          contacts
     };
   });
 }

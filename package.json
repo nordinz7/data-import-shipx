@@ -9,11 +9,13 @@
   "dependencies": {
     "@types/lodash": "^4.17.16",
     "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2",
     "xlsx": "^0.17.0"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/json2csv": "^5.0.7",
     "@types/bun": "^1.2.12",
     "lodash": "^4.17.21"
   }
