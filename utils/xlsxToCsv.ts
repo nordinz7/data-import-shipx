@@ -4,7 +4,7 @@ import * as path from 'path';
 import { ADDRESS_COLUMNS, DEFAULT_IF_REQUIRED_NOT_FOUND } from '../constants';
 import { AdmCustomer, Opts } from '../types';
 import convertToArea from './AdmArea';
-import { pick, uniqBy } from 'lodash';
+import { uniqBy } from 'lodash';
 import { convertToShipCon } from './ShipCon';
 import { Parser } from 'json2csv';
 
@@ -204,7 +204,7 @@ function extractFromSheet(sheetName: string, opts: Opts) {
         }
         case 'ShipperConsignee':{
             if (!opts.workbook.SheetNames.includes('ShipperConDelivery')) {
-                console.log('Sheet "ShipperConsignee" not found in the workbook.');
+                console.log(`Sheet "ShipperConDelivery" not found in ${opts.fileBaseName}`);
                 return;
             }
 
@@ -228,7 +228,7 @@ function extractFromWorkbook(workbook: XLSX.WorkBook, filePath: string) {
         fs.writeFileSync(csvFilePath, content);
     }
 
-    sheetNames.forEach((sheetName)=>extractFromSheet(sheetName, { workbook, generateOutput }));
+    sheetNames.forEach((sheetName)=>extractFromSheet(sheetName, { workbook, generateOutput, fileBaseName }));
 }
 
 

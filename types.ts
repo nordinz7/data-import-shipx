@@ -130,4 +130,5 @@ export type DropOnDropOff = {
 export type Opts = {
   generateOutput: (fileSuffixName: string, content: string) => void;
   workbook: XLSX.WorkBook;
+  fileBaseName: string;
 }
