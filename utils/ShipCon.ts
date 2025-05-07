@@ -34,12 +34,12 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
             "location.coordinates": "",
             "phone": address["Tel"] || "",
             "fax": address["Fax"] || "",
-            "tags": parseInt(address['IsDefault']) ? JSON.stringify(["isDefault"]): [],
+            "tags": parseInt(address['IsDefault']) ? ["isDefault"]: [],
             "status": "activated",
             "uuid": "",
             "zzz": "",
           }
-    })
+    }).filter(address => address.address1)
 
     const contacts = foundAddresses.map((address) => ({
             // --- Contact ---
