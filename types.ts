@@ -1,3 +1,4 @@
+import type * as XLSX from 'xlsx';
 // types by SheetNames
 export type AdmCustomer = {
   CompanyCode: string;
@@ -124,4 +125,9 @@ export type DropOnDropOff = {
   DGCRate20Old: number | null;
   DGCRate40Old: number | null;
   JournelPort: string | null;
+}
+
+export type Opts = {
+  generateOutput: (fileSuffixName: string, content: string) => void;
+  workbook: XLSX.WorkBook;
 }
