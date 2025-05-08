@@ -57,7 +57,7 @@ export const convertToShipCon = (shipConCompanies: ShipperConsignee[], shipConAd
           // --- General Info ---
           "no": "",
           "code": company['Code'],
-          "name": company['Name'],
+          "name": company['Name'] || DEFAULT_IF_REQUIRED_NOT_FOUND,
           "description": "",
           "status": "activated",
           "tags": "",
