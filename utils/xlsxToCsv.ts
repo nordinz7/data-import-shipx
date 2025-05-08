@@ -221,6 +221,7 @@ function extractFromSheet(sheetName: string, opts: Opts) {
     switch (sheetName) {
         case 'AdmCustomer':
         case 'Drop On Drop Off':
+        case 'AdmLocation':
         {
             const data = getCompanies(cloneJsonDataFromSheet(opts.workbook.Sheets[sheetName]), opts).filter((row:AdmCustomer) =>  sheetName === 'AdmCustomer' ? row['SageMappingCode'] !== 'NULL' && row['SageMappingCode'] : row);
             const converted = data.map(d => convert(d, opts));
@@ -236,8 +237,9 @@ function extractFromSheet(sheetName: string, opts: Opts) {
         }
         case 'ShipperConsignee':
         case 'AdmShipperConsignee':{
-            const targetSheets = ['ShipperConsignee', 'AdmShipperConsignee'];
+            const targetSheets = ['ShipConDelivery', 'AdmShipConDelivery'];
             const shipConDelSheet = opts.workbook.SheetNames.find((sheetName) => targetSheets.includes(sheetName));
+
             if (!shipConDelSheet) {
                 console.log(`Sheet "ShipperConDelivery" not found in ${opts.fileBaseName}`);
                 return;
