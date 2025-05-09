@@ -21,10 +21,10 @@ Convert HMS XLSX data into ShipX-compatible CSV files for master data import.
    ```sh
    bun install
    ```
-3. put `xlsx` file to be converted in the `input` folder
+3. create `input` folder in root directory and place your XLSX files there.
 4. run
    ```sh
-   bun run start
+   bun run dev
    ```
 5. output will be in the `output` folder
 6. check the output folder for the converted CSV files.
